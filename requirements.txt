@@ -9,9 +9,11 @@ numpy>=1.24.0
 
 # 科学计算与统计
 scipy>=1.10.0
+scikit-learn
 
 # 可视化
 plotly>=5.18.0
+matplotlib
 
 # 其他
-openpyxl>=3.1.0  # Excel导出支持
+openpyxl>=3.1.0 # Excel导出支持
