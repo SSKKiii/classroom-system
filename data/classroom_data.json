@@ -1,0 +1,2263 @@
+{
+  "classrooms": [
+    {
+      "name": "B303",
+      "building": "教学楼B",
+      "floor": 3,
+      "total_seats": 68,
+      "type": "普通教室",
+      "has_projector": false,
+      "has_computer": false,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    },
+    {
+      "name": "A406",
+      "building": "教学楼A",
+      "floor": 4,
+      "total_seats": 71,
+      "type": "多媒体教室",
+      "has_projector": true,
+      "has_computer": false,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    },
+    {
+      "name": "B205",
+      "building": "教学楼B",
+      "floor": 2,
+      "total_seats": 79,
+      "type": "普通教室",
+      "has_projector": false,
+      "has_computer": false,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    },
+    {
+      "name": "A309",
+      "building": "教学楼A",
+      "floor": 3,
+      "total_seats": 79,
+      "type": "普通教室",
+      "has_projector": false,
+      "has_computer": false,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    },
+    {
+      "name": "C305",
+      "building": "教学楼C",
+      "floor": 3,
+      "total_seats": 60,
+      "type": "多媒体教室",
+      "has_projector": true,
+      "has_computer": false,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    },
+    {
+      "name": "A310",
+      "building": "教学楼A",
+      "floor": 3,
+      "total_seats": 78,
+      "type": "普通教室",
+      "has_projector": false,
+      "has_computer": false,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    },
+    {
+      "name": "C407",
+      "building": "教学楼C",
+      "floor": 4,
+      "total_seats": 71,
+      "type": "多媒体教室",
+      "has_projector": true,
+      "has_computer": false,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    },
+    {
+      "name": "A402",
+      "building": "教学楼A",
+      "floor": 4,
+      "total_seats": 68,
+      "type": "普通教室",
+      "has_projector": false,
+      "has_computer": false,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    },
+    {
+      "name": "B206",
+      "building": "教学楼B",
+      "floor": 2,
+      "total_seats": 82,
+      "type": "多媒体教室",
+      "has_projector": true,
+      "has_computer": false,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    },
+    {
+      "name": "B209",
+      "building": "教学楼B",
+      "floor": 2,
+      "total_seats": 45,
+      "type": "普通教室",
+      "has_projector": false,
+      "has_computer": false,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    },
+    {
+      "name": "B103",
+      "building": "教学楼B",
+      "floor": 1,
+      "total_seats": 75,
+      "type": "普通教室",
+      "has_projector": false,
+      "has_computer": false,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    },
+    {
+      "name": "B508",
+      "building": "教学楼B",
+      "floor": 5,
+      "total_seats": 53,
+      "type": "普通教室",
+      "has_projector": false,
+      "has_computer": false,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    },
+    {
+      "name": "C303",
+      "building": "教学楼C",
+      "floor": 3,
+      "total_seats": 142,
+      "type": "阶梯教室",
+      "has_projector": true,
+      "has_computer": false,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    },
+    {
+      "name": "C502",
+      "building": "教学楼C",
+      "floor": 5,
+      "total_seats": 31,
+      "type": "计算机房",
+      "has_projector": false,
+      "has_computer": true,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    },
+    {
+      "name": "C501",
+      "building": "教学楼C",
+      "floor": 5,
+      "total_seats": 44,
+      "type": "计算机房",
+      "has_projector": false,
+      "has_computer": true,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    },
+    {
+      "name": "B306",
+      "building": "教学楼B",
+      "floor": 3,
+      "total_seats": 188,
+      "type": "阶梯教室",
+      "has_projector": true,
+      "has_computer": false,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    },
+    {
+      "name": "B105",
+      "building": "教学楼B",
+      "floor": 1,
+      "total_seats": 62,
+      "type": "多媒体教室",
+      "has_projector": true,
+      "has_computer": false,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    },
+    {
+      "name": "C203",
+      "building": "教学楼C",
+      "floor": 2,
+      "total_seats": 198,
+      "type": "阶梯教室",
+      "has_projector": true,
+      "has_computer": false,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    },
+    {
+      "name": "A207",
+      "building": "教学楼A",
+      "floor": 2,
+      "total_seats": 93,
+      "type": "多媒体教室",
+      "has_projector": true,
+      "has_computer": false,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    },
+    {
+      "name": "B208",
+      "building": "教学楼B",
+      "floor": 2,
+      "total_seats": 40,
+      "type": "普通教室",
+      "has_projector": false,
+      "has_computer": false,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    },
+    {
+      "name": "A510",
+      "building": "教学楼A",
+      "floor": 5,
+      "total_seats": 77,
+      "type": "普通教室",
+      "has_projector": false,
+      "has_computer": false,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    },
+    {
+      "name": "A505",
+      "building": "教学楼A",
+      "floor": 5,
+      "total_seats": 48,
+      "type": "普通教室",
+      "has_projector": false,
+      "has_computer": false,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    },
+    {
+      "name": "B107",
+      "building": "教学楼B",
+      "floor": 1,
+      "total_seats": 43,
+      "type": "计算机房",
+      "has_projector": false,
+      "has_computer": true,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    },
+    {
+      "name": "C202",
+      "building": "教学楼C",
+      "floor": 2,
+      "total_seats": 113,
+      "type": "阶梯教室",
+      "has_projector": true,
+      "has_computer": false,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    },
+    {
+      "name": "B403",
+      "building": "教学楼B",
+      "floor": 4,
+      "total_seats": 24,
+      "type": "实验室",
+      "has_projector": false,
+      "has_computer": false,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    },
+    {
+      "name": "B503",
+      "building": "教学楼B",
+      "floor": 5,
+      "total_seats": 69,
+      "type": "普通教室",
+      "has_projector": false,
+      "has_computer": false,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    },
+    {
+      "name": "C308",
+      "building": "教学楼C",
+      "floor": 3,
+      "total_seats": 69,
+      "type": "普通教室",
+      "has_projector": false,
+      "has_computer": false,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    },
+    {
+      "name": "C505",
+      "building": "教学楼C",
+      "floor": 5,
+      "total_seats": 32,
+      "type": "实验室",
+      "has_projector": false,
+      "has_computer": false,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    },
+    {
+      "name": "B108",
+      "building": "教学楼B",
+      "floor": 1,
+      "total_seats": 72,
+      "type": "普通教室",
+      "has_projector": false,
+      "has_computer": false,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    },
+    {
+      "name": "A410",
+      "building": "教学楼A",
+      "floor": 4,
+      "total_seats": 64,
+      "type": "普通教室",
+      "has_projector": false,
+      "has_computer": false,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    },
+    {
+      "name": "B203",
+      "building": "教学楼B",
+      "floor": 2,
+      "total_seats": 49,
+      "type": "普通教室",
+      "has_projector": false,
+      "has_computer": false,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    },
+    {
+      "name": "A308",
+      "building": "教学楼A",
+      "floor": 3,
+      "total_seats": 51,
+      "type": "普通教室",
+      "has_projector": false,
+      "has_computer": false,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    },
+    {
+      "name": "B202",
+      "building": "教学楼B",
+      "floor": 2,
+      "total_seats": 36,
+      "type": "计算机房",
+      "has_projector": false,
+      "has_computer": true,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    },
+    {
+      "name": "C510",
+      "building": "教学楼C",
+      "floor": 5,
+      "total_seats": 40,
+      "type": "实验室",
+      "has_projector": false,
+      "has_computer": false,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    },
+    {
+      "name": "A408",
+      "building": "教学楼A",
+      "floor": 4,
+      "total_seats": 47,
+      "type": "普通教室",
+      "has_projector": false,
+      "has_computer": false,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    },
+    {
+      "name": "A103",
+      "building": "教学楼A",
+      "floor": 1,
+      "total_seats": 32,
+      "type": "实验室",
+      "has_projector": false,
+      "has_computer": false,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    },
+    {
+      "name": "B505",
+      "building": "教学楼B",
+      "floor": 5,
+      "total_seats": 64,
+      "type": "普通教室",
+      "has_projector": false,
+      "has_computer": false,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    },
+    {
+      "name": "B110",
+      "building": "教学楼B",
+      "floor": 1,
+      "total_seats": 75,
+      "type": "普通教室",
+      "has_projector": false,
+      "has_computer": false,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    },
+    {
+      "name": "C509",
+      "building": "教学楼C",
+      "floor": 5,
+      "total_seats": 62,
+      "type": "普通教室",
+      "has_projector": false,
+      "has_computer": false,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    },
+    {
+      "name": "C209",
+      "building": "教学楼C",
+      "floor": 2,
+      "total_seats": 60,
+      "type": "普通教室",
+      "has_projector": false,
+      "has_computer": false,
+      "notes": "",
+      "created_at": "2026-04-30 22:34:24"
+    }
+  ],
+  "records": [
+    {
+      "id": "rec_20260430224730206316",
+      "classroom": "A505",
+      "date": "2026-05-03",
+      "time_slots": [
+        "15:00-15:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "杨同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 25,
+      "total_seats": 48,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730206316",
+      "classroom": "C308",
+      "date": "2026-05-01",
+      "time_slots": [
+        "12:00-12:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "王同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 22,
+      "total_seats": 69,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730206316",
+      "classroom": "B306",
+      "date": "2026-05-03",
+      "time_slots": [
+        "18:00-18:30"
+      ],
+      "usage_type": "上课",
+      "user_name": "李老师",
+      "course_name": "大学物理",
+      "organizer": "",
+      "used_seats": 0,
+      "total_seats": 188,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730206316",
+      "classroom": "B505",
+      "date": "2026-04-24",
+      "time_slots": [
+        "09:00-09:30"
+      ],
+      "usage_type": "讲座",
+      "user_name": "刘老师",
+      "course_name": "",
+      "organizer": "教务处",
+      "used_seats": 0,
+      "total_seats": 64,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730206316",
+      "classroom": "C303",
+      "date": "2026-05-02",
+      "time_slots": [
+        "17:00-17:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "刘同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 113,
+      "total_seats": 142,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730206316",
+      "classroom": "B107",
+      "date": "2026-05-02",
+      "time_slots": [
+        "16:00-16:30"
+      ],
+      "usage_type": "其他",
+      "user_name": "李老师",
+      "course_name": "",
+      "organizer": "研究生院",
+      "used_seats": 0,
+      "total_seats": 43,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730206316",
+      "classroom": "C209",
+      "date": "2026-04-26",
+      "time_slots": [
+        "11:30-12:00"
+      ],
+      "usage_type": "自习",
+      "user_name": "陈同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 18,
+      "total_seats": 60,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730206316",
+      "classroom": "A505",
+      "date": "2026-04-23",
+      "time_slots": [
+        "16:30-17:00"
+      ],
+      "usage_type": "自习",
+      "user_name": "刘同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 23,
+      "total_seats": 48,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730206316",
+      "classroom": "C303",
+      "date": "2026-04-27",
+      "time_slots": [
+        "11:30-12:00"
+      ],
+      "usage_type": "自习",
+      "user_name": "刘同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 43,
+      "total_seats": 142,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730206316",
+      "classroom": "B306",
+      "date": "2026-04-24",
+      "time_slots": [
+        "13:30-14:00"
+      ],
+      "usage_type": "讲座",
+      "user_name": "李老师",
+      "course_name": "",
+      "organizer": "团委",
+      "used_seats": 0,
+      "total_seats": 188,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730206316",
+      "classroom": "C203",
+      "date": "2026-05-07",
+      "time_slots": [
+        "15:00-15:30"
+      ],
+      "usage_type": "考试",
+      "user_name": "王老师",
+      "course_name": "线性代数",
+      "organizer": "",
+      "used_seats": 0,
+      "total_seats": 198,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730206316",
+      "classroom": "A406",
+      "date": "2026-05-01",
+      "time_slots": [
+        "09:30-10:00"
+      ],
+      "usage_type": "自习",
+      "user_name": "赵同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 9,
+      "total_seats": 71,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730206316",
+      "classroom": "C303",
+      "date": "2026-04-25",
+      "time_slots": [
+        "12:30-13:00"
+      ],
+      "usage_type": "上课",
+      "user_name": "张老师",
+      "course_name": "数据结构",
+      "organizer": "",
+      "used_seats": 0,
+      "total_seats": 142,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730206316",
+      "classroom": "A207",
+      "date": "2026-05-05",
+      "time_slots": [
+        "17:30-18:00"
+      ],
+      "usage_type": "考试",
+      "user_name": "陈老师",
+      "course_name": "计算机网络",
+      "organizer": "",
+      "used_seats": 0,
+      "total_seats": 93,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730206316",
+      "classroom": "B110",
+      "date": "2026-04-28",
+      "time_slots": [
+        "19:30-20:00"
+      ],
+      "usage_type": "自习",
+      "user_name": "李同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 24,
+      "total_seats": 75,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730206316",
+      "classroom": "A410",
+      "date": "2026-04-26",
+      "time_slots": [
+        "11:00-11:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "赵同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 36,
+      "total_seats": 64,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730206316",
+      "classroom": "C203",
+      "date": "2026-05-01",
+      "time_slots": [
+        "16:30-17:00"
+      ],
+      "usage_type": "上课",
+      "user_name": "刘老师",
+      "course_name": "计算机网络",
+      "organizer": "",
+      "used_seats": 0,
+      "total_seats": 198,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730206316",
+      "classroom": "B306",
+      "date": "2026-05-01",
+      "time_slots": [
+        "11:30-12:00"
+      ],
+      "usage_type": "讲座",
+      "user_name": "李老师",
+      "course_name": "",
+      "organizer": "团委",
+      "used_seats": 0,
+      "total_seats": 188,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730206316",
+      "classroom": "B306",
+      "date": "2026-05-07",
+      "time_slots": [
+        "12:00-12:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "李同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 22,
+      "total_seats": 188,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730210046",
+      "classroom": "B206",
+      "date": "2026-04-25",
+      "time_slots": [
+        "17:30-18:00"
+      ],
+      "usage_type": "自习",
+      "user_name": "吴同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 34,
+      "total_seats": 82,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730210046",
+      "classroom": "B508",
+      "date": "2026-05-02",
+      "time_slots": [
+        "09:00-09:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "张同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 20,
+      "total_seats": 53,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730210046",
+      "classroom": "B306",
+      "date": "2026-05-06",
+      "time_slots": [
+        "11:00-11:30"
+      ],
+      "usage_type": "上课",
+      "user_name": "陈老师",
+      "course_name": "线性代数",
+      "organizer": "",
+      "used_seats": 0,
+      "total_seats": 188,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730210046",
+      "classroom": "B306",
+      "date": "2026-05-04",
+      "time_slots": [
+        "15:00-15:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "吴同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 54,
+      "total_seats": 188,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730210046",
+      "classroom": "B306",
+      "date": "2026-05-07",
+      "time_slots": [
+        "10:30-11:00"
+      ],
+      "usage_type": "自习",
+      "user_name": "杨同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 83,
+      "total_seats": 188,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730210046",
+      "classroom": "C209",
+      "date": "2026-04-28",
+      "time_slots": [
+        "11:30-12:00"
+      ],
+      "usage_type": "上课",
+      "user_name": "王老师",
+      "course_name": "计算机网络",
+      "organizer": "",
+      "used_seats": 0,
+      "total_seats": 60,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730210046",
+      "classroom": "C303",
+      "date": "2026-05-03",
+      "time_slots": [
+        "13:00-13:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "李同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 75,
+      "total_seats": 142,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730210046",
+      "classroom": "C303",
+      "date": "2026-05-01",
+      "time_slots": [
+        "15:00-15:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "刘同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 38,
+      "total_seats": 142,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730210046",
+      "classroom": "C203",
+      "date": "2026-05-03",
+      "time_slots": [
+        "09:00-09:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "赵同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 26,
+      "total_seats": 198,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730210046",
+      "classroom": "B205",
+      "date": "2026-04-25",
+      "time_slots": [
+        "13:30-14:00"
+      ],
+      "usage_type": "自习",
+      "user_name": "郑同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 24,
+      "total_seats": 79,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730210046",
+      "classroom": "B205",
+      "date": "2026-04-28",
+      "time_slots": [
+        "12:30-13:00"
+      ],
+      "usage_type": "自习",
+      "user_name": "周同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 42,
+      "total_seats": 79,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730210046",
+      "classroom": "C407",
+      "date": "2026-04-29",
+      "time_slots": [
+        "09:30-10:00"
+      ],
+      "usage_type": "自习",
+      "user_name": "赵同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 39,
+      "total_seats": 71,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730210046",
+      "classroom": "B206",
+      "date": "2026-05-06",
+      "time_slots": [
+        "13:30-14:00"
+      ],
+      "usage_type": "讲座",
+      "user_name": "李老师",
+      "course_name": "",
+      "organizer": "学生会",
+      "used_seats": 0,
+      "total_seats": 82,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730211053",
+      "classroom": "A410",
+      "date": "2026-05-01",
+      "time_slots": [
+        "12:00-12:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "张同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 10,
+      "total_seats": 64,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730211053",
+      "classroom": "C203",
+      "date": "2026-05-07",
+      "time_slots": [
+        "17:00-17:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "陈同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 155,
+      "total_seats": 198,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730211053",
+      "classroom": "B103",
+      "date": "2026-04-30",
+      "time_slots": [
+        "18:00-18:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "张同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 60,
+      "total_seats": 75,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730211053",
+      "classroom": "C303",
+      "date": "2026-04-25",
+      "time_slots": [
+        "17:00-17:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "杨同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 75,
+      "total_seats": 142,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730211053",
+      "classroom": "C203",
+      "date": "2026-04-24",
+      "time_slots": [
+        "11:30-12:00"
+      ],
+      "usage_type": "自习",
+      "user_name": "吴同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 144,
+      "total_seats": 198,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730211053",
+      "classroom": "C203",
+      "date": "2026-05-07",
+      "time_slots": [
+        "12:30-13:00"
+      ],
+      "usage_type": "讲座",
+      "user_name": "陈老师",
+      "course_name": "",
+      "organizer": "团委",
+      "used_seats": 0,
+      "total_seats": 198,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730211053",
+      "classroom": "C203",
+      "date": "2026-05-03",
+      "time_slots": [
+        "12:00-12:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "张同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 77,
+      "total_seats": 198,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730211053",
+      "classroom": "C203",
+      "date": "2026-04-24",
+      "time_slots": [
+        "10:00-10:30"
+      ],
+      "usage_type": "上课",
+      "user_name": "陈老师",
+      "course_name": "操作系统",
+      "organizer": "",
+      "used_seats": 0,
+      "total_seats": 198,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730211053",
+      "classroom": "B503",
+      "date": "2026-05-04",
+      "time_slots": [
+        "09:30-10:00"
+      ],
+      "usage_type": "讲座",
+      "user_name": "张老师",
+      "course_name": "",
+      "organizer": "研究生院",
+      "used_seats": 0,
+      "total_seats": 69,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730211053",
+      "classroom": "A410",
+      "date": "2026-04-25",
+      "time_slots": [
+        "09:00-09:30"
+      ],
+      "usage_type": "讲座",
+      "user_name": "刘老师",
+      "course_name": "",
+      "organizer": "学生会",
+      "used_seats": 0,
+      "total_seats": 64,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730211053",
+      "classroom": "C209",
+      "date": "2026-04-25",
+      "time_slots": [
+        "09:30-10:00"
+      ],
+      "usage_type": "自习",
+      "user_name": "赵同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 7,
+      "total_seats": 60,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730211053",
+      "classroom": "C509",
+      "date": "2026-04-30",
+      "time_slots": [
+        "20:00-20:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "陈同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 46,
+      "total_seats": 62,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730211053",
+      "classroom": "B306",
+      "date": "2026-04-29",
+      "time_slots": [
+        "12:30-13:00"
+      ],
+      "usage_type": "自习",
+      "user_name": "郑同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 141,
+      "total_seats": 188,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730212053",
+      "classroom": "C203",
+      "date": "2026-05-06",
+      "time_slots": [
+        "17:00-17:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "李同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 119,
+      "total_seats": 198,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730212053",
+      "classroom": "C509",
+      "date": "2026-05-05",
+      "time_slots": [
+        "17:00-17:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "杨同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 21,
+      "total_seats": 62,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730212053",
+      "classroom": "C308",
+      "date": "2026-04-23",
+      "time_slots": [
+        "20:00-20:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "赵同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 10,
+      "total_seats": 69,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730212053",
+      "classroom": "B306",
+      "date": "2026-04-30",
+      "time_slots": [
+        "10:30-11:00"
+      ],
+      "usage_type": "上课",
+      "user_name": "王老师",
+      "course_name": "操作系统",
+      "organizer": "",
+      "used_seats": 0,
+      "total_seats": 188,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730212053",
+      "classroom": "A310",
+      "date": "2026-04-23",
+      "time_slots": [
+        "15:00-15:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "李同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 9,
+      "total_seats": 78,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730212053",
+      "classroom": "C203",
+      "date": "2026-05-01",
+      "time_slots": [
+        "10:00-10:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "张同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 34,
+      "total_seats": 198,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730212053",
+      "classroom": "A309",
+      "date": "2026-04-26",
+      "time_slots": [
+        "14:30-15:00"
+      ],
+      "usage_type": "自习",
+      "user_name": "杨同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 32,
+      "total_seats": 79,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730212053",
+      "classroom": "A308",
+      "date": "2026-04-26",
+      "time_slots": [
+        "14:30-15:00"
+      ],
+      "usage_type": "自习",
+      "user_name": "赵同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 36,
+      "total_seats": 51,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730212053",
+      "classroom": "A505",
+      "date": "2026-04-27",
+      "time_slots": [
+        "20:00-20:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "周同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 6,
+      "total_seats": 48,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730212053",
+      "classroom": "A309",
+      "date": "2026-05-02",
+      "time_slots": [
+        "08:30-09:00"
+      ],
+      "usage_type": "自习",
+      "user_name": "李同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 54,
+      "total_seats": 79,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730212053",
+      "classroom": "A310",
+      "date": "2026-04-29",
+      "time_slots": [
+        "16:00-16:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "王同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 27,
+      "total_seats": 78,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730212053",
+      "classroom": "A310",
+      "date": "2026-04-24",
+      "time_slots": [
+        "16:30-17:00"
+      ],
+      "usage_type": "自习",
+      "user_name": "杨同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 21,
+      "total_seats": 78,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730212053",
+      "classroom": "B205",
+      "date": "2026-04-26",
+      "time_slots": [
+        "08:00-08:30"
+      ],
+      "usage_type": "上课",
+      "user_name": "刘老师",
+      "course_name": "计算机网络",
+      "organizer": "",
+      "used_seats": 0,
+      "total_seats": 79,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730213051",
+      "classroom": "C303",
+      "date": "2026-04-26",
+      "time_slots": [
+        "09:00-09:30"
+      ],
+      "usage_type": "上课",
+      "user_name": "李老师",
+      "course_name": "大学物理",
+      "organizer": "",
+      "used_seats": 0,
+      "total_seats": 142,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730213051",
+      "classroom": "C203",
+      "date": "2026-04-25",
+      "time_slots": [
+        "14:00-14:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "张同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 148,
+      "total_seats": 198,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730213051",
+      "classroom": "A309",
+      "date": "2026-05-06",
+      "time_slots": [
+        "11:00-11:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "刘同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 23,
+      "total_seats": 79,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730213051",
+      "classroom": "B103",
+      "date": "2026-04-26",
+      "time_slots": [
+        "20:30-21:00"
+      ],
+      "usage_type": "自习",
+      "user_name": "王同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 49,
+      "total_seats": 75,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730213051",
+      "classroom": "B306",
+      "date": "2026-05-01",
+      "time_slots": [
+        "09:00-09:30"
+      ],
+      "usage_type": "考试",
+      "user_name": "刘老师",
+      "course_name": "计算机网络",
+      "organizer": "",
+      "used_seats": 0,
+      "total_seats": 188,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730213051",
+      "classroom": "B306",
+      "date": "2026-04-27",
+      "time_slots": [
+        "12:00-12:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "郑同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 93,
+      "total_seats": 188,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730213051",
+      "classroom": "C407",
+      "date": "2026-05-06",
+      "time_slots": [
+        "12:00-12:30"
+      ],
+      "usage_type": "讲座",
+      "user_name": "刘老师",
+      "course_name": "",
+      "organizer": "教务处",
+      "used_seats": 0,
+      "total_seats": 71,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730213051",
+      "classroom": "A505",
+      "date": "2026-04-27",
+      "time_slots": [
+        "15:00-15:30"
+      ],
+      "usage_type": "讲座",
+      "user_name": "李老师",
+      "course_name": "",
+      "organizer": "研究生院",
+      "used_seats": 0,
+      "total_seats": 48,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730213051",
+      "classroom": "C203",
+      "date": "2026-04-23",
+      "time_slots": [
+        "19:30-20:00"
+      ],
+      "usage_type": "自习",
+      "user_name": "张同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 150,
+      "total_seats": 198,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730213051",
+      "classroom": "B505",
+      "date": "2026-04-28",
+      "time_slots": [
+        "16:30-17:00"
+      ],
+      "usage_type": "上课",
+      "user_name": "刘老师",
+      "course_name": "数据结构",
+      "organizer": "",
+      "used_seats": 0,
+      "total_seats": 64,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730213051",
+      "classroom": "B306",
+      "date": "2026-05-02",
+      "time_slots": [
+        "09:00-09:30"
+      ],
+      "usage_type": "上课",
+      "user_name": "刘老师",
+      "course_name": "大学物理",
+      "organizer": "",
+      "used_seats": 0,
+      "total_seats": 188,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730213051",
+      "classroom": "C407",
+      "date": "2026-05-04",
+      "time_slots": [
+        "15:30-16:00"
+      ],
+      "usage_type": "自习",
+      "user_name": "李同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 21,
+      "total_seats": 71,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730213051",
+      "classroom": "B303",
+      "date": "2026-04-27",
+      "time_slots": [
+        "08:00-08:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "张同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 35,
+      "total_seats": 68,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730213051",
+      "classroom": "A309",
+      "date": "2026-04-27",
+      "time_slots": [
+        "13:30-14:00"
+      ],
+      "usage_type": "自习",
+      "user_name": "刘同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 15,
+      "total_seats": 79,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730213051",
+      "classroom": "B105",
+      "date": "2026-04-23",
+      "time_slots": [
+        "12:00-12:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "周同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 25,
+      "total_seats": 62,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730214133",
+      "classroom": "A402",
+      "date": "2026-04-27",
+      "time_slots": [
+        "14:00-14:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "陈同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 17,
+      "total_seats": 68,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730214133",
+      "classroom": "B208",
+      "date": "2026-05-07",
+      "time_slots": [
+        "08:30-09:00"
+      ],
+      "usage_type": "考试",
+      "user_name": "张老师",
+      "course_name": "程序设计",
+      "organizer": "",
+      "used_seats": 0,
+      "total_seats": 40,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730214133",
+      "classroom": "A207",
+      "date": "2026-05-04",
+      "time_slots": [
+        "20:00-20:30"
+      ],
+      "usage_type": "考试",
+      "user_name": "王老师",
+      "course_name": "线性代数",
+      "organizer": "",
+      "used_seats": 0,
+      "total_seats": 93,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730214133",
+      "classroom": "C209",
+      "date": "2026-04-25",
+      "time_slots": [
+        "12:30-13:00"
+      ],
+      "usage_type": "考试",
+      "user_name": "刘老师",
+      "course_name": "线性代数",
+      "organizer": "",
+      "used_seats": 0,
+      "total_seats": 60,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730214133",
+      "classroom": "C203",
+      "date": "2026-04-29",
+      "time_slots": [
+        "18:30-19:00"
+      ],
+      "usage_type": "自习",
+      "user_name": "张同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 65,
+      "total_seats": 198,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730214133",
+      "classroom": "C203",
+      "date": "2026-04-26",
+      "time_slots": [
+        "19:30-20:00"
+      ],
+      "usage_type": "自习",
+      "user_name": "张同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 56,
+      "total_seats": 198,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730214133",
+      "classroom": "A207",
+      "date": "2026-05-04",
+      "time_slots": [
+        "20:30-21:00"
+      ],
+      "usage_type": "自习",
+      "user_name": "郑同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 39,
+      "total_seats": 93,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730214133",
+      "classroom": "B505",
+      "date": "2026-04-24",
+      "time_slots": [
+        "13:00-13:30"
+      ],
+      "usage_type": "上课",
+      "user_name": "刘老师",
+      "course_name": "操作系统",
+      "organizer": "",
+      "used_seats": 0,
+      "total_seats": 64,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730214133",
+      "classroom": "B306",
+      "date": "2026-05-03",
+      "time_slots": [
+        "11:00-11:30"
+      ],
+      "usage_type": "上课",
+      "user_name": "李老师",
+      "course_name": "线性代数",
+      "organizer": "",
+      "used_seats": 0,
+      "total_seats": 188,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730214133",
+      "classroom": "C202",
+      "date": "2026-05-02",
+      "time_slots": [
+        "10:00-10:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "张同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 19,
+      "total_seats": 113,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730214133",
+      "classroom": "C203",
+      "date": "2026-05-03",
+      "time_slots": [
+        "16:30-17:00"
+      ],
+      "usage_type": "考试",
+      "user_name": "张老师",
+      "course_name": "计算机网络",
+      "organizer": "",
+      "used_seats": 0,
+      "total_seats": 198,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730214133",
+      "classroom": "B208",
+      "date": "2026-04-27",
+      "time_slots": [
+        "10:00-10:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "吴同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 26,
+      "total_seats": 40,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730214133",
+      "classroom": "C203",
+      "date": "2026-04-28",
+      "time_slots": [
+        "20:30-21:00"
+      ],
+      "usage_type": "考试",
+      "user_name": "陈老师",
+      "course_name": "大学物理",
+      "organizer": "",
+      "used_seats": 0,
+      "total_seats": 198,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730214133",
+      "classroom": "C303",
+      "date": "2026-04-26",
+      "time_slots": [
+        "08:30-09:00"
+      ],
+      "usage_type": "自习",
+      "user_name": "张同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 86,
+      "total_seats": 142,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730214133",
+      "classroom": "B306",
+      "date": "2026-05-01",
+      "time_slots": [
+        "18:00-18:30"
+      ],
+      "usage_type": "上课",
+      "user_name": "王老师",
+      "course_name": "线性代数",
+      "organizer": "",
+      "used_seats": 0,
+      "total_seats": 188,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730214133",
+      "classroom": "A410",
+      "date": "2026-05-01",
+      "time_slots": [
+        "12:30-13:00"
+      ],
+      "usage_type": "上课",
+      "user_name": "刘老师",
+      "course_name": "大学物理",
+      "organizer": "",
+      "used_seats": 0,
+      "total_seats": 64,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730214133",
+      "classroom": "B306",
+      "date": "2026-04-27",
+      "time_slots": [
+        "18:30-19:00"
+      ],
+      "usage_type": "自习",
+      "user_name": "张同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 78,
+      "total_seats": 188,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730215220",
+      "classroom": "C203",
+      "date": "2026-04-24",
+      "time_slots": [
+        "20:30-21:00"
+      ],
+      "usage_type": "自习",
+      "user_name": "王同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 120,
+      "total_seats": 198,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730215220",
+      "classroom": "C203",
+      "date": "2026-05-02",
+      "time_slots": [
+        "20:00-20:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "赵同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 54,
+      "total_seats": 198,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730215220",
+      "classroom": "B110",
+      "date": "2026-05-06",
+      "time_slots": [
+        "09:00-09:30"
+      ],
+      "usage_type": "考试",
+      "user_name": "刘老师",
+      "course_name": "高等数学",
+      "organizer": "",
+      "used_seats": 0,
+      "total_seats": 75,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730215220",
+      "classroom": "C202",
+      "date": "2026-04-30",
+      "time_slots": [
+        "13:00-13:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "陈同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 62,
+      "total_seats": 113,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730215220",
+      "classroom": "C308",
+      "date": "2026-04-28",
+      "time_slots": [
+        "19:00-19:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "赵同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 26,
+      "total_seats": 69,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730215220",
+      "classroom": "B107",
+      "date": "2026-05-05",
+      "time_slots": [
+        "17:00-17:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "赵同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 14,
+      "total_seats": 43,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730215220",
+      "classroom": "C509",
+      "date": "2026-05-07",
+      "time_slots": [
+        "10:00-10:30"
+      ],
+      "usage_type": "上课",
+      "user_name": "张老师",
+      "course_name": "高等数学",
+      "organizer": "",
+      "used_seats": 0,
+      "total_seats": 62,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730215220",
+      "classroom": "B306",
+      "date": "2026-04-29",
+      "time_slots": [
+        "12:00-12:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "杨同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 22,
+      "total_seats": 188,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730215220",
+      "classroom": "C202",
+      "date": "2026-04-24",
+      "time_slots": [
+        "12:30-13:00"
+      ],
+      "usage_type": "自习",
+      "user_name": "李同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 17,
+      "total_seats": 113,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224730215220",
+      "classroom": "B306",
+      "date": "2026-04-25",
+      "time_slots": [
+        "13:30-14:00"
+      ],
+      "usage_type": "自习",
+      "user_name": "刘同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 48,
+      "total_seats": 188,
+      "created_at": "2026-04-30 22:47:30"
+    },
+    {
+      "id": "rec_20260430224736231801",
+      "classroom": "C203",
+      "date": "2026-03-31",
+      "time_slots": [
+        "18:00-18:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "吴同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 177,
+      "total_seats": 198,
+      "created_at": "2026-04-30 22:47:36"
+    },
+    {
+      "id": "rec_20260430224736231801",
+      "classroom": "C203",
+      "date": "2026-03-31",
+      "time_slots": [
+        "18:00-18:30"
+      ],
+      "usage_type": "上课",
+      "user_name": "张老师",
+      "course_name": "操作系统",
+      "organizer": "",
+      "used_seats": 0,
+      "total_seats": 198,
+      "created_at": "2026-04-30 22:47:36"
+    },
+    {
+      "id": "rec_20260430224736231801",
+      "classroom": "C203",
+      "date": "2026-04-07",
+      "time_slots": [
+        "18:00-18:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "王同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 196,
+      "total_seats": 198,
+      "created_at": "2026-04-30 22:47:36"
+    },
+    {
+      "id": "rec_20260430224736231801",
+      "classroom": "C203",
+      "date": "2026-04-07",
+      "time_slots": [
+        "18:00-18:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "李同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 192,
+      "total_seats": 198,
+      "created_at": "2026-04-30 22:47:36"
+    },
+    {
+      "id": "rec_20260430224736231801",
+      "classroom": "C203",
+      "date": "2026-03-24",
+      "time_slots": [
+        "18:00-18:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "周同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 172,
+      "total_seats": 198,
+      "created_at": "2026-04-30 22:47:36"
+    },
+    {
+      "id": "rec_20260430224736231801",
+      "classroom": "B306",
+      "date": "2026-03-26",
+      "time_slots": [
+        "17:30-18:00"
+      ],
+      "usage_type": "自习",
+      "user_name": "张同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 183,
+      "total_seats": 188,
+      "created_at": "2026-04-30 22:47:36"
+    },
+    {
+      "id": "rec_20260430224736231801",
+      "classroom": "B306",
+      "date": "2026-03-26",
+      "time_slots": [
+        "17:30-18:00"
+      ],
+      "usage_type": "上课",
+      "user_name": "刘老师",
+      "course_name": "大学物理",
+      "organizer": "",
+      "used_seats": 0,
+      "total_seats": 188,
+      "created_at": "2026-04-30 22:47:36"
+    },
+    {
+      "id": "rec_20260430224736231801",
+      "classroom": "B306",
+      "date": "2026-03-26",
+      "time_slots": [
+        "17:30-18:00"
+      ],
+      "usage_type": "讲座",
+      "user_name": "陈老师",
+      "course_name": "",
+      "organizer": "教务处",
+      "used_seats": 0,
+      "total_seats": 188,
+      "created_at": "2026-04-30 22:47:36"
+    },
+    {
+      "id": "rec_20260430224736231801",
+      "classroom": "B306",
+      "date": "2026-04-09",
+      "time_slots": [
+        "17:30-18:00"
+      ],
+      "usage_type": "自习",
+      "user_name": "杨同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 133,
+      "total_seats": 188,
+      "created_at": "2026-04-30 22:47:36"
+    },
+    {
+      "id": "rec_20260430224736231801",
+      "classroom": "B306",
+      "date": "2026-04-23",
+      "time_slots": [
+        "17:30-18:00"
+      ],
+      "usage_type": "自习",
+      "user_name": "赵同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 155,
+      "total_seats": 188,
+      "created_at": "2026-04-30 22:47:36"
+    },
+    {
+      "id": "rec_20260430224736232257",
+      "classroom": "C303",
+      "date": "2026-04-13",
+      "time_slots": [
+        "20:30-21:00"
+      ],
+      "usage_type": "自习",
+      "user_name": "王同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 142,
+      "total_seats": 142,
+      "created_at": "2026-04-30 22:47:36"
+    },
+    {
+      "id": "rec_20260430224736232257",
+      "classroom": "C303",
+      "date": "2026-04-06",
+      "time_slots": [
+        "20:30-21:00"
+      ],
+      "usage_type": "其他",
+      "user_name": "陈老师",
+      "course_name": "",
+      "organizer": "图书馆",
+      "used_seats": 0,
+      "total_seats": 142,
+      "created_at": "2026-04-30 22:47:36"
+    },
+    {
+      "id": "rec_20260430224736232257",
+      "classroom": "C303",
+      "date": "2026-03-23",
+      "time_slots": [
+        "20:30-21:00"
+      ],
+      "usage_type": "考试",
+      "user_name": "刘老师",
+      "course_name": "线性代数",
+      "organizer": "",
+      "used_seats": 0,
+      "total_seats": 142,
+      "created_at": "2026-04-30 22:47:36"
+    },
+    {
+      "id": "rec_20260430224736232257",
+      "classroom": "C303",
+      "date": "2026-03-23",
+      "time_slots": [
+        "20:30-21:00"
+      ],
+      "usage_type": "自习",
+      "user_name": "吴同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 101,
+      "total_seats": 142,
+      "created_at": "2026-04-30 22:47:36"
+    },
+    {
+      "id": "rec_20260430224736232257",
+      "classroom": "C303",
+      "date": "2026-04-06",
+      "time_slots": [
+        "20:30-21:00"
+      ],
+      "usage_type": "自习",
+      "user_name": "杨同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 105,
+      "total_seats": 142,
+      "created_at": "2026-04-30 22:47:36"
+    },
+    {
+      "id": "rec_20260430224736232257",
+      "classroom": "C202",
+      "date": "2026-04-21",
+      "time_slots": [
+        "10:00-10:30"
+      ],
+      "usage_type": "上课",
+      "user_name": "李老师",
+      "course_name": "数据结构",
+      "organizer": "",
+      "used_seats": 0,
+      "total_seats": 113,
+      "created_at": "2026-04-30 22:47:36"
+    },
+    {
+      "id": "rec_20260430224736232257",
+      "classroom": "C202",
+      "date": "2026-03-31",
+      "time_slots": [
+        "10:00-10:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "周同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 85,
+      "total_seats": 113,
+      "created_at": "2026-04-30 22:47:36"
+    },
+    {
+      "id": "rec_20260430224736232257",
+      "classroom": "C202",
+      "date": "2026-03-31",
+      "time_slots": [
+        "10:00-10:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "杨同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 99,
+      "total_seats": 113,
+      "created_at": "2026-04-30 22:47:36"
+    },
+    {
+      "id": "rec_20260430224736232257",
+      "classroom": "C202",
+      "date": "2026-04-14",
+      "time_slots": [
+        "10:00-10:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "李同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 106,
+      "total_seats": 113,
+      "created_at": "2026-04-30 22:47:36"
+    },
+    {
+      "id": "rec_20260430224736232257",
+      "classroom": "C202",
+      "date": "2026-03-24",
+      "time_slots": [
+        "10:00-10:30"
+      ],
+      "usage_type": "自习",
+      "user_name": "张同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 86,
+      "total_seats": 113,
+      "created_at": "2026-04-30 22:47:36"
+    },
+    {
+      "id": "20260526150035081845",
+      "classroom": "A103",
+      "date": "2026-05-26",
+      "weekday": "周二",
+      "time_slots": [
+        "15:00-17:00"
+      ],
+      "usage_type": "自习",
+      "user_name": "张同学",
+      "course_name": "",
+      "organizer": "",
+      "used_seats": 3,
+      "total_seats": 32,
+      "notes": "",
+      "created_at": "2026-05-26 15:00:35"
+    }
+  ]
+}

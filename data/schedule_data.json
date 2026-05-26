@@ -1,0 +1,6086 @@
+[
+  {
+    "id": "sch_B303_周一_3_20260430223429",
+    "classroom": "B303",
+    "weekday": "周一",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "概率论与数理统计",
+    "course_type": "专业课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B303_周二_5_20260430223429",
+    "classroom": "B303",
+    "weekday": "周二",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "思想政治理论",
+    "course_type": "公共课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B303_周二_4_20260430223429",
+    "classroom": "B303",
+    "weekday": "周二",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "音乐欣赏",
+    "course_type": "选修课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B303_周三_3_20260430223429",
+    "classroom": "B303",
+    "weekday": "周三",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "离散数学",
+    "course_type": "专业课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B303_周四_2_20260430223429",
+    "classroom": "B303",
+    "weekday": "周四",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "文学名著导读",
+    "course_type": "选修课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B303_周四_0_20260430223429",
+    "classroom": "B303",
+    "weekday": "周四",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "计算机实验",
+    "course_type": "实验课",
+    "teacher": "周老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B303_周四_6_20260430223429",
+    "classroom": "B303",
+    "weekday": "周四",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "离散数学",
+    "course_type": "专业课",
+    "teacher": "赵老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B303_周四_8_20260430223429",
+    "classroom": "B303",
+    "weekday": "周四",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "经济学原理",
+    "course_type": "选修课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B303_周五_2_20260430223429",
+    "classroom": "B303",
+    "weekday": "周五",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "大学物理",
+    "course_type": "公共课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B303_周五_3_20260430223429",
+    "classroom": "B303",
+    "weekday": "周五",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "文学名著导读",
+    "course_type": "选修课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B303_周五_9_20260430223429",
+    "classroom": "B303",
+    "weekday": "周五",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "算法设计",
+    "course_type": "专业课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A406_周一_0_20260430223429",
+    "classroom": "A406",
+    "weekday": "周一",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "心理学入门",
+    "course_type": "选修课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A406_周一_3_20260430223429",
+    "classroom": "A406",
+    "weekday": "周一",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "化学实验",
+    "course_type": "实验课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A406_周一_2_20260430223429",
+    "classroom": "A406",
+    "weekday": "周一",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "文学名著导读",
+    "course_type": "选修课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A406_周一_6_20260430223429",
+    "classroom": "A406",
+    "weekday": "周一",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "思想政治理论",
+    "course_type": "公共课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A406_周二_0_20260430223429",
+    "classroom": "A406",
+    "weekday": "周二",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "文学名著导读",
+    "course_type": "选修课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A406_周二_4_20260430223429",
+    "classroom": "A406",
+    "weekday": "周二",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "大学化学",
+    "course_type": "公共课",
+    "teacher": "周老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A406_周二_3_20260430223429",
+    "classroom": "A406",
+    "weekday": "周二",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "电子技术实验",
+    "course_type": "实验课",
+    "teacher": "吴老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A406_周二_5_20260430223429",
+    "classroom": "A406",
+    "weekday": "周二",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "体育",
+    "course_type": "公共课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A406_周三_3_20260430223429",
+    "classroom": "A406",
+    "weekday": "周三",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "计算机网络",
+    "course_type": "专业课",
+    "teacher": "孙老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A406_周三_4_20260430223429",
+    "classroom": "A406",
+    "weekday": "周三",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "生物实验",
+    "course_type": "实验课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A406_周三_7_20260430223429",
+    "classroom": "A406",
+    "weekday": "周三",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "大学英语",
+    "course_type": "公共课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A406_周三_1_20260430223429",
+    "classroom": "A406",
+    "weekday": "周三",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "物理实验",
+    "course_type": "实验课",
+    "teacher": "孙老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A406_周四_5_20260430223429",
+    "classroom": "A406",
+    "weekday": "周四",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "操作系统",
+    "course_type": "专业课",
+    "teacher": "孙老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A406_周五_2_20260430223429",
+    "classroom": "A406",
+    "weekday": "周五",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "计算机实验",
+    "course_type": "实验课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B205_周一_0_20260430223429",
+    "classroom": "B205",
+    "weekday": "周一",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "数据结构",
+    "course_type": "专业课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B205_周一_5_20260430223429",
+    "classroom": "B205",
+    "weekday": "周一",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "管理学基础",
+    "course_type": "选修课",
+    "teacher": "吴老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B205_周一_6_20260430223429",
+    "classroom": "B205",
+    "weekday": "周一",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "大学化学",
+    "course_type": "公共课",
+    "teacher": "孙老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B205_周二_1_20260430223429",
+    "classroom": "B205",
+    "weekday": "周二",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "计算机实验",
+    "course_type": "实验课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B205_周三_2_20260430223429",
+    "classroom": "B205",
+    "weekday": "周三",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "大学物理",
+    "course_type": "公共课",
+    "teacher": "周老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B205_周三_8_20260430223429",
+    "classroom": "B205",
+    "weekday": "周三",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "音乐欣赏",
+    "course_type": "选修课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B205_周三_6_20260430223429",
+    "classroom": "B205",
+    "weekday": "周三",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "计算机基础",
+    "course_type": "公共课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B205_周三_7_20260430223429",
+    "classroom": "B205",
+    "weekday": "周三",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "心理学入门",
+    "course_type": "选修课",
+    "teacher": "赵老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B205_周四_8_20260430223429",
+    "classroom": "B205",
+    "weekday": "周四",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "物理实验",
+    "course_type": "实验课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B205_周四_1_20260430223429",
+    "classroom": "B205",
+    "weekday": "周四",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "计算机基础",
+    "course_type": "公共课",
+    "teacher": "周老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B205_周四_2_20260430223429",
+    "classroom": "B205",
+    "weekday": "周四",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "生物实验",
+    "course_type": "实验课",
+    "teacher": "赵老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B205_周五_1_20260430223429",
+    "classroom": "B205",
+    "weekday": "周五",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "音乐欣赏",
+    "course_type": "选修课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B205_周五_8_20260430223429",
+    "classroom": "B205",
+    "weekday": "周五",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "经济学原理",
+    "course_type": "选修课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B205_周五_3_20260430223429",
+    "classroom": "B205",
+    "weekday": "周五",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "数据结构",
+    "course_type": "专业课",
+    "teacher": "吴老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A309_周一_4_20260430223429",
+    "classroom": "A309",
+    "weekday": "周一",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "算法设计",
+    "course_type": "专业课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A309_周一_2_20260430223429",
+    "classroom": "A309",
+    "weekday": "周一",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "文学名著导读",
+    "course_type": "选修课",
+    "teacher": "赵老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A309_周一_8_20260430223429",
+    "classroom": "A309",
+    "weekday": "周一",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "计算机网络",
+    "course_type": "专业课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A309_周二_5_20260430223429",
+    "classroom": "A309",
+    "weekday": "周二",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "大学化学",
+    "course_type": "公共课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A309_周二_9_20260430223429",
+    "classroom": "A309",
+    "weekday": "周二",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "化学实验",
+    "course_type": "实验课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A309_周二_4_20260430223429",
+    "classroom": "A309",
+    "weekday": "周二",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "离散数学",
+    "course_type": "专业课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A309_周三_5_20260430223429",
+    "classroom": "A309",
+    "weekday": "周三",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "算法设计",
+    "course_type": "专业课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A309_周三_4_20260430223429",
+    "classroom": "A309",
+    "weekday": "周三",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "思想政治理论",
+    "course_type": "公共课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A309_周三_7_20260430223429",
+    "classroom": "A309",
+    "weekday": "周三",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "心理学入门",
+    "course_type": "选修课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A309_周三_9_20260430223429",
+    "classroom": "A309",
+    "weekday": "周三",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "高等数学",
+    "course_type": "专业课",
+    "teacher": "周老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A309_周四_7_20260430223429",
+    "classroom": "A309",
+    "weekday": "周四",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "线性代数",
+    "course_type": "专业课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A309_周四_0_20260430223429",
+    "classroom": "A309",
+    "weekday": "周四",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "体育",
+    "course_type": "公共课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A309_周四_9_20260430223429",
+    "classroom": "A309",
+    "weekday": "周四",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "操作系统",
+    "course_type": "专业课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A309_周五_7_20260430223429",
+    "classroom": "A309",
+    "weekday": "周五",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "大学英语",
+    "course_type": "公共课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A309_周五_2_20260430223429",
+    "classroom": "A309",
+    "weekday": "周五",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "计算机基础",
+    "course_type": "公共课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A309_周五_4_20260430223429",
+    "classroom": "A309",
+    "weekday": "周五",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "音乐欣赏",
+    "course_type": "选修课",
+    "teacher": "吴老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A309_周五_1_20260430223429",
+    "classroom": "A309",
+    "weekday": "周五",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "计算机实验",
+    "course_type": "实验课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C305_周一_9_20260430223429",
+    "classroom": "C305",
+    "weekday": "周一",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "大学化学",
+    "course_type": "公共课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C305_周二_0_20260430223429",
+    "classroom": "C305",
+    "weekday": "周二",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "计算机网络",
+    "course_type": "专业课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C305_周二_6_20260430223429",
+    "classroom": "C305",
+    "weekday": "周二",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "生物实验",
+    "course_type": "实验课",
+    "teacher": "周老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C305_周二_7_20260430223429",
+    "classroom": "C305",
+    "weekday": "周二",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "思想政治理论",
+    "course_type": "公共课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C305_周二_4_20260430223429",
+    "classroom": "C305",
+    "weekday": "周二",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "大学英语",
+    "course_type": "公共课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C305_周三_4_20260430223429",
+    "classroom": "C305",
+    "weekday": "周三",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "大学英语",
+    "course_type": "公共课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C305_周三_1_20260430223429",
+    "classroom": "C305",
+    "weekday": "周三",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "高等数学",
+    "course_type": "专业课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C305_周三_2_20260430223429",
+    "classroom": "C305",
+    "weekday": "周三",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "经济学原理",
+    "course_type": "选修课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C305_周三_3_20260430223429",
+    "classroom": "C305",
+    "weekday": "周三",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "大学物理",
+    "course_type": "公共课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C305_周四_7_20260430223429",
+    "classroom": "C305",
+    "weekday": "周四",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "音乐欣赏",
+    "course_type": "选修课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C305_周五_4_20260430223429",
+    "classroom": "C305",
+    "weekday": "周五",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "计算机实验",
+    "course_type": "实验课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C305_周五_9_20260430223429",
+    "classroom": "C305",
+    "weekday": "周五",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "计算机实验",
+    "course_type": "实验课",
+    "teacher": "吴老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C305_周五_3_20260430223429",
+    "classroom": "C305",
+    "weekday": "周五",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "物理实验",
+    "course_type": "实验课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C305_周五_7_20260430223429",
+    "classroom": "C305",
+    "weekday": "周五",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "美术鉴赏",
+    "course_type": "选修课",
+    "teacher": "赵老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A310_周一_5_20260430223429",
+    "classroom": "A310",
+    "weekday": "周一",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "计算机网络",
+    "course_type": "专业课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A310_周二_3_20260430223429",
+    "classroom": "A310",
+    "weekday": "周二",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "大学语文",
+    "course_type": "公共课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A310_周二_2_20260430223429",
+    "classroom": "A310",
+    "weekday": "周二",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "音乐欣赏",
+    "course_type": "选修课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A310_周三_0_20260430223429",
+    "classroom": "A310",
+    "weekday": "周三",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "大学物理",
+    "course_type": "公共课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A310_周三_5_20260430223429",
+    "classroom": "A310",
+    "weekday": "周三",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "经济学原理",
+    "course_type": "选修课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A310_周三_4_20260430223429",
+    "classroom": "A310",
+    "weekday": "周三",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "操作系统",
+    "course_type": "专业课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A310_周三_8_20260430223429",
+    "classroom": "A310",
+    "weekday": "周三",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "经济学原理",
+    "course_type": "选修课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A310_周四_3_20260430223429",
+    "classroom": "A310",
+    "weekday": "周四",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "软件工程",
+    "course_type": "专业课",
+    "teacher": "赵老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A310_周五_1_20260430223429",
+    "classroom": "A310",
+    "weekday": "周五",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "美术鉴赏",
+    "course_type": "选修课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A310_周五_5_20260430223429",
+    "classroom": "A310",
+    "weekday": "周五",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "操作系统",
+    "course_type": "专业课",
+    "teacher": "赵老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C407_周一_4_20260430223429",
+    "classroom": "C407",
+    "weekday": "周一",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "电子技术实验",
+    "course_type": "实验课",
+    "teacher": "吴老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C407_周二_1_20260430223429",
+    "classroom": "C407",
+    "weekday": "周二",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "计算机网络",
+    "course_type": "专业课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C407_周二_7_20260430223429",
+    "classroom": "C407",
+    "weekday": "周二",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "经济学原理",
+    "course_type": "选修课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C407_周二_5_20260430223429",
+    "classroom": "C407",
+    "weekday": "周二",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "经济学原理",
+    "course_type": "选修课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C407_周二_6_20260430223429",
+    "classroom": "C407",
+    "weekday": "周二",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "电子技术实验",
+    "course_type": "实验课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C407_周三_8_20260430223429",
+    "classroom": "C407",
+    "weekday": "周三",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "算法设计",
+    "course_type": "专业课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C407_周三_6_20260430223429",
+    "classroom": "C407",
+    "weekday": "周三",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "生物实验",
+    "course_type": "实验课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C407_周四_0_20260430223429",
+    "classroom": "C407",
+    "weekday": "周四",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "概率论与数理统计",
+    "course_type": "专业课",
+    "teacher": "吴老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C407_周四_4_20260430223429",
+    "classroom": "C407",
+    "weekday": "周四",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "美术鉴赏",
+    "course_type": "选修课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C407_周四_9_20260430223429",
+    "classroom": "C407",
+    "weekday": "周四",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "音乐欣赏",
+    "course_type": "选修课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C407_周五_8_20260430223429",
+    "classroom": "C407",
+    "weekday": "周五",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "大学英语",
+    "course_type": "公共课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C407_周五_0_20260430223429",
+    "classroom": "C407",
+    "weekday": "周五",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "管理学基础",
+    "course_type": "选修课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A402_周一_2_20260430223429",
+    "classroom": "A402",
+    "weekday": "周一",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "大学英语",
+    "course_type": "公共课",
+    "teacher": "孙老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A402_周一_1_20260430223429",
+    "classroom": "A402",
+    "weekday": "周一",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "大学化学",
+    "course_type": "公共课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A402_周二_3_20260430223429",
+    "classroom": "A402",
+    "weekday": "周二",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "音乐欣赏",
+    "course_type": "选修课",
+    "teacher": "吴老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A402_周三_7_20260430223429",
+    "classroom": "A402",
+    "weekday": "周三",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "音乐欣赏",
+    "course_type": "选修课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A402_周三_5_20260430223429",
+    "classroom": "A402",
+    "weekday": "周三",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "思想政治理论",
+    "course_type": "公共课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A402_周四_6_20260430223429",
+    "classroom": "A402",
+    "weekday": "周四",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "美术鉴赏",
+    "course_type": "选修课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A402_周四_2_20260430223429",
+    "classroom": "A402",
+    "weekday": "周四",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "操作系统",
+    "course_type": "专业课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A402_周五_9_20260430223429",
+    "classroom": "A402",
+    "weekday": "周五",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "思想政治理论",
+    "course_type": "公共课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A402_周五_1_20260430223429",
+    "classroom": "A402",
+    "weekday": "周五",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "思想政治理论",
+    "course_type": "公共课",
+    "teacher": "周老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A402_周五_8_20260430223429",
+    "classroom": "A402",
+    "weekday": "周五",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "大学英语",
+    "course_type": "公共课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B206_周一_8_20260430223429",
+    "classroom": "B206",
+    "weekday": "周一",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "管理学基础",
+    "course_type": "选修课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B206_周一_4_20260430223429",
+    "classroom": "B206",
+    "weekday": "周一",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "大学语文",
+    "course_type": "公共课",
+    "teacher": "吴老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B206_周二_3_20260430223429",
+    "classroom": "B206",
+    "weekday": "周二",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "管理学基础",
+    "course_type": "选修课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B206_周二_1_20260430223429",
+    "classroom": "B206",
+    "weekday": "周二",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "管理学基础",
+    "course_type": "选修课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B206_周二_4_20260430223429",
+    "classroom": "B206",
+    "weekday": "周二",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "音乐欣赏",
+    "course_type": "选修课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B206_周三_3_20260430223429",
+    "classroom": "B206",
+    "weekday": "周三",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "操作系统",
+    "course_type": "专业课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B206_周三_1_20260430223429",
+    "classroom": "B206",
+    "weekday": "周三",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "线性代数",
+    "course_type": "专业课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B206_周三_6_20260430223429",
+    "classroom": "B206",
+    "weekday": "周三",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "算法设计",
+    "course_type": "专业课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B206_周四_4_20260430223429",
+    "classroom": "B206",
+    "weekday": "周四",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "计算机基础",
+    "course_type": "公共课",
+    "teacher": "吴老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B206_周四_1_20260430223429",
+    "classroom": "B206",
+    "weekday": "周四",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "大学语文",
+    "course_type": "公共课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B206_周五_1_20260430223429",
+    "classroom": "B206",
+    "weekday": "周五",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "概率论与数理统计",
+    "course_type": "专业课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B206_周五_8_20260430223429",
+    "classroom": "B206",
+    "weekday": "周五",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "计算机实验",
+    "course_type": "实验课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B209_周一_9_20260430223429",
+    "classroom": "B209",
+    "weekday": "周一",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "化学实验",
+    "course_type": "实验课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B209_周一_4_20260430223429",
+    "classroom": "B209",
+    "weekday": "周一",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "物理实验",
+    "course_type": "实验课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B209_周一_1_20260430223429",
+    "classroom": "B209",
+    "weekday": "周一",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "化学实验",
+    "course_type": "实验课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B209_周二_8_20260430223429",
+    "classroom": "B209",
+    "weekday": "周二",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "物理实验",
+    "course_type": "实验课",
+    "teacher": "周老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B209_周二_5_20260430223429",
+    "classroom": "B209",
+    "weekday": "周二",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "大学化学",
+    "course_type": "公共课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B209_周二_9_20260430223429",
+    "classroom": "B209",
+    "weekday": "周二",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "电子技术实验",
+    "course_type": "实验课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B209_周二_6_20260430223429",
+    "classroom": "B209",
+    "weekday": "周二",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "数据结构",
+    "course_type": "专业课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B209_周三_3_20260430223429",
+    "classroom": "B209",
+    "weekday": "周三",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "数据结构",
+    "course_type": "专业课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B209_周四_2_20260430223429",
+    "classroom": "B209",
+    "weekday": "周四",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "美术鉴赏",
+    "course_type": "选修课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B209_周四_8_20260430223429",
+    "classroom": "B209",
+    "weekday": "周四",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "美术鉴赏",
+    "course_type": "选修课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B209_周四_6_20260430223429",
+    "classroom": "B209",
+    "weekday": "周四",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "管理学基础",
+    "course_type": "选修课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B209_周五_6_20260430223429",
+    "classroom": "B209",
+    "weekday": "周五",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "化学实验",
+    "course_type": "实验课",
+    "teacher": "吴老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B209_周五_7_20260430223429",
+    "classroom": "B209",
+    "weekday": "周五",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "化学实验",
+    "course_type": "实验课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B209_周五_3_20260430223429",
+    "classroom": "B209",
+    "weekday": "周五",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "计算机实验",
+    "course_type": "实验课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B209_周五_5_20260430223429",
+    "classroom": "B209",
+    "weekday": "周五",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "操作系统",
+    "course_type": "专业课",
+    "teacher": "吴老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B103_周一_8_20260430223429",
+    "classroom": "B103",
+    "weekday": "周一",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "管理学基础",
+    "course_type": "选修课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B103_周二_2_20260430223429",
+    "classroom": "B103",
+    "weekday": "周二",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "操作系统",
+    "course_type": "专业课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B103_周二_9_20260430223429",
+    "classroom": "B103",
+    "weekday": "周二",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "计算机实验",
+    "course_type": "实验课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B103_周二_0_20260430223429",
+    "classroom": "B103",
+    "weekday": "周二",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "算法设计",
+    "course_type": "专业课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B103_周三_2_20260430223429",
+    "classroom": "B103",
+    "weekday": "周三",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "算法设计",
+    "course_type": "专业课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B103_周四_0_20260430223429",
+    "classroom": "B103",
+    "weekday": "周四",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "心理学入门",
+    "course_type": "选修课",
+    "teacher": "周老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B103_周四_9_20260430223429",
+    "classroom": "B103",
+    "weekday": "周四",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "大学语文",
+    "course_type": "公共课",
+    "teacher": "周老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B103_周五_6_20260430223429",
+    "classroom": "B103",
+    "weekday": "周五",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "大学英语",
+    "course_type": "公共课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B103_周五_5_20260430223429",
+    "classroom": "B103",
+    "weekday": "周五",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "管理学基础",
+    "course_type": "选修课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B103_周五_2_20260430223429",
+    "classroom": "B103",
+    "weekday": "周五",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "软件工程",
+    "course_type": "专业课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B508_周一_8_20260430223429",
+    "classroom": "B508",
+    "weekday": "周一",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "大学物理",
+    "course_type": "公共课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B508_周一_7_20260430223429",
+    "classroom": "B508",
+    "weekday": "周一",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "经济学原理",
+    "course_type": "选修课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B508_周一_2_20260430223429",
+    "classroom": "B508",
+    "weekday": "周一",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "计算机基础",
+    "course_type": "公共课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B508_周二_4_20260430223429",
+    "classroom": "B508",
+    "weekday": "周二",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "大学语文",
+    "course_type": "公共课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B508_周二_2_20260430223429",
+    "classroom": "B508",
+    "weekday": "周二",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "大学英语",
+    "course_type": "公共课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B508_周二_6_20260430223429",
+    "classroom": "B508",
+    "weekday": "周二",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "美术鉴赏",
+    "course_type": "选修课",
+    "teacher": "周老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B508_周二_8_20260430223429",
+    "classroom": "B508",
+    "weekday": "周二",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "算法设计",
+    "course_type": "专业课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B508_周三_8_20260430223429",
+    "classroom": "B508",
+    "weekday": "周三",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "数据库原理",
+    "course_type": "专业课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B508_周三_4_20260430223429",
+    "classroom": "B508",
+    "weekday": "周三",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "化学实验",
+    "course_type": "实验课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B508_周四_5_20260430223429",
+    "classroom": "B508",
+    "weekday": "周四",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "物理实验",
+    "course_type": "实验课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B508_周四_6_20260430223429",
+    "classroom": "B508",
+    "weekday": "周四",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "物理实验",
+    "course_type": "实验课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B508_周四_9_20260430223429",
+    "classroom": "B508",
+    "weekday": "周四",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "大学物理",
+    "course_type": "公共课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B508_周五_0_20260430223429",
+    "classroom": "B508",
+    "weekday": "周五",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "计算机网络",
+    "course_type": "专业课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B508_周五_6_20260430223429",
+    "classroom": "B508",
+    "weekday": "周五",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "大学物理",
+    "course_type": "公共课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C303_周一_2_20260430223429",
+    "classroom": "C303",
+    "weekday": "周一",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "概率论与数理统计",
+    "course_type": "专业课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C303_周一_1_20260430223429",
+    "classroom": "C303",
+    "weekday": "周一",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "计算机基础",
+    "course_type": "公共课",
+    "teacher": "孙老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C303_周一_0_20260430223429",
+    "classroom": "C303",
+    "weekday": "周一",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "大学英语",
+    "course_type": "公共课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C303_周一_9_20260430223429",
+    "classroom": "C303",
+    "weekday": "周一",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "思想政治理论",
+    "course_type": "公共课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C303_周二_3_20260430223429",
+    "classroom": "C303",
+    "weekday": "周二",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "大学化学",
+    "course_type": "公共课",
+    "teacher": "吴老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C303_周二_5_20260430223429",
+    "classroom": "C303",
+    "weekday": "周二",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "算法设计",
+    "course_type": "专业课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C303_周三_9_20260430223429",
+    "classroom": "C303",
+    "weekday": "周三",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "算法设计",
+    "course_type": "专业课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C303_周三_4_20260430223429",
+    "classroom": "C303",
+    "weekday": "周三",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "大学化学",
+    "course_type": "公共课",
+    "teacher": "孙老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C303_周三_0_20260430223429",
+    "classroom": "C303",
+    "weekday": "周三",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "高等数学",
+    "course_type": "专业课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C303_周三_7_20260430223429",
+    "classroom": "C303",
+    "weekday": "周三",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "计算机网络",
+    "course_type": "专业课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C303_周四_3_20260430223429",
+    "classroom": "C303",
+    "weekday": "周四",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "计算机基础",
+    "course_type": "公共课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C303_周四_1_20260430223429",
+    "classroom": "C303",
+    "weekday": "周四",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "数据库原理",
+    "course_type": "专业课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C303_周五_9_20260430223429",
+    "classroom": "C303",
+    "weekday": "周五",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "大学英语",
+    "course_type": "公共课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C303_周五_0_20260430223429",
+    "classroom": "C303",
+    "weekday": "周五",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "离散数学",
+    "course_type": "专业课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C502_周一_1_20260430223429",
+    "classroom": "C502",
+    "weekday": "周一",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "计算机实验",
+    "course_type": "实验课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C502_周一_8_20260430223429",
+    "classroom": "C502",
+    "weekday": "周一",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "电子技术实验",
+    "course_type": "实验课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C502_周一_5_20260430223429",
+    "classroom": "C502",
+    "weekday": "周一",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "生物实验",
+    "course_type": "实验课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C502_周二_3_20260430223429",
+    "classroom": "C502",
+    "weekday": "周二",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "物理实验",
+    "course_type": "实验课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C502_周二_1_20260430223429",
+    "classroom": "C502",
+    "weekday": "周二",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "计算机实验",
+    "course_type": "实验课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C502_周二_9_20260430223429",
+    "classroom": "C502",
+    "weekday": "周二",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "物理实验",
+    "course_type": "实验课",
+    "teacher": "孙老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C502_周二_5_20260430223429",
+    "classroom": "C502",
+    "weekday": "周二",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "物理实验",
+    "course_type": "实验课",
+    "teacher": "赵老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C502_周三_6_20260430223429",
+    "classroom": "C502",
+    "weekday": "周三",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "计算机实验",
+    "course_type": "实验课",
+    "teacher": "周老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C502_周四_1_20260430223429",
+    "classroom": "C502",
+    "weekday": "周四",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "计算机实验",
+    "course_type": "实验课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C502_周四_8_20260430223429",
+    "classroom": "C502",
+    "weekday": "周四",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "计算机实验",
+    "course_type": "实验课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C502_周四_5_20260430223429",
+    "classroom": "C502",
+    "weekday": "周四",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "生物实验",
+    "course_type": "实验课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C502_周四_4_20260430223429",
+    "classroom": "C502",
+    "weekday": "周四",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "物理实验",
+    "course_type": "实验课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C502_周五_7_20260430223429",
+    "classroom": "C502",
+    "weekday": "周五",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "物理实验",
+    "course_type": "实验课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C502_周五_5_20260430223429",
+    "classroom": "C502",
+    "weekday": "周五",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "计算机实验",
+    "course_type": "实验课",
+    "teacher": "周老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C501_周一_9_20260430223429",
+    "classroom": "C501",
+    "weekday": "周一",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "生物实验",
+    "course_type": "实验课",
+    "teacher": "吴老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C501_周一_1_20260430223429",
+    "classroom": "C501",
+    "weekday": "周一",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "计算机实验",
+    "course_type": "实验课",
+    "teacher": "吴老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C501_周二_9_20260430223429",
+    "classroom": "C501",
+    "weekday": "周二",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "化学实验",
+    "course_type": "实验课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C501_周二_0_20260430223429",
+    "classroom": "C501",
+    "weekday": "周二",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "化学实验",
+    "course_type": "实验课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C501_周二_2_20260430223429",
+    "classroom": "C501",
+    "weekday": "周二",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "物理实验",
+    "course_type": "实验课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C501_周三_1_20260430223429",
+    "classroom": "C501",
+    "weekday": "周三",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "化学实验",
+    "course_type": "实验课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C501_周三_9_20260430223429",
+    "classroom": "C501",
+    "weekday": "周三",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "物理实验",
+    "course_type": "实验课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C501_周三_8_20260430223429",
+    "classroom": "C501",
+    "weekday": "周三",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "计算机实验",
+    "course_type": "实验课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C501_周四_2_20260430223429",
+    "classroom": "C501",
+    "weekday": "周四",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "计算机实验",
+    "course_type": "实验课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C501_周四_0_20260430223429",
+    "classroom": "C501",
+    "weekday": "周四",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "计算机实验",
+    "course_type": "实验课",
+    "teacher": "孙老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C501_周四_4_20260430223429",
+    "classroom": "C501",
+    "weekday": "周四",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "电子技术实验",
+    "course_type": "实验课",
+    "teacher": "赵老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C501_周五_7_20260430223429",
+    "classroom": "C501",
+    "weekday": "周五",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "计算机实验",
+    "course_type": "实验课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C501_周五_3_20260430223429",
+    "classroom": "C501",
+    "weekday": "周五",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "电子技术实验",
+    "course_type": "实验课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C501_周五_2_20260430223429",
+    "classroom": "C501",
+    "weekday": "周五",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "计算机实验",
+    "course_type": "实验课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C501_周五_6_20260430223429",
+    "classroom": "C501",
+    "weekday": "周五",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "化学实验",
+    "course_type": "实验课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B306_周一_0_20260430223429",
+    "classroom": "B306",
+    "weekday": "周一",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "算法设计",
+    "course_type": "专业课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B306_周一_7_20260430223429",
+    "classroom": "B306",
+    "weekday": "周一",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "大学英语",
+    "course_type": "公共课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B306_周二_9_20260430223429",
+    "classroom": "B306",
+    "weekday": "周二",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "线性代数",
+    "course_type": "专业课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B306_周二_0_20260430223429",
+    "classroom": "B306",
+    "weekday": "周二",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "高等数学",
+    "course_type": "专业课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B306_周二_6_20260430223429",
+    "classroom": "B306",
+    "weekday": "周二",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "大学物理",
+    "course_type": "公共课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B306_周二_4_20260430223429",
+    "classroom": "B306",
+    "weekday": "周二",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "数据库原理",
+    "course_type": "专业课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B306_周三_1_20260430223429",
+    "classroom": "B306",
+    "weekday": "周三",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "大学英语",
+    "course_type": "公共课",
+    "teacher": "吴老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B306_周三_9_20260430223429",
+    "classroom": "B306",
+    "weekday": "周三",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "大学物理",
+    "course_type": "公共课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B306_周四_1_20260430223429",
+    "classroom": "B306",
+    "weekday": "周四",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "大学化学",
+    "course_type": "公共课",
+    "teacher": "周老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B306_周五_6_20260430223429",
+    "classroom": "B306",
+    "weekday": "周五",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "线性代数",
+    "course_type": "专业课",
+    "teacher": "周老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B306_周五_7_20260430223429",
+    "classroom": "B306",
+    "weekday": "周五",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "软件工程",
+    "course_type": "专业课",
+    "teacher": "周老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B306_周五_0_20260430223429",
+    "classroom": "B306",
+    "weekday": "周五",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "计算机基础",
+    "course_type": "公共课",
+    "teacher": "孙老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B306_周五_2_20260430223429",
+    "classroom": "B306",
+    "weekday": "周五",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "算法设计",
+    "course_type": "专业课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B105_周一_1_20260430223429",
+    "classroom": "B105",
+    "weekday": "周一",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "大学化学",
+    "course_type": "公共课",
+    "teacher": "周老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B105_周一_7_20260430223429",
+    "classroom": "B105",
+    "weekday": "周一",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "电子技术实验",
+    "course_type": "实验课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B105_周二_5_20260430223429",
+    "classroom": "B105",
+    "weekday": "周二",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "离散数学",
+    "course_type": "专业课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B105_周二_0_20260430223429",
+    "classroom": "B105",
+    "weekday": "周二",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "电子技术实验",
+    "course_type": "实验课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B105_周三_9_20260430223429",
+    "classroom": "B105",
+    "weekday": "周三",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "线性代数",
+    "course_type": "专业课",
+    "teacher": "周老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B105_周四_6_20260430223429",
+    "classroom": "B105",
+    "weekday": "周四",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "大学语文",
+    "course_type": "公共课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B105_周四_7_20260430223429",
+    "classroom": "B105",
+    "weekday": "周四",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "体育",
+    "course_type": "公共课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B105_周四_8_20260430223429",
+    "classroom": "B105",
+    "weekday": "周四",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "体育",
+    "course_type": "公共课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B105_周五_5_20260430223429",
+    "classroom": "B105",
+    "weekday": "周五",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "文学名著导读",
+    "course_type": "选修课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B105_周五_3_20260430223429",
+    "classroom": "B105",
+    "weekday": "周五",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "电子技术实验",
+    "course_type": "实验课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C203_周一_5_20260430223429",
+    "classroom": "C203",
+    "weekday": "周一",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "大学物理",
+    "course_type": "公共课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C203_周二_6_20260430223429",
+    "classroom": "C203",
+    "weekday": "周二",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "操作系统",
+    "course_type": "专业课",
+    "teacher": "孙老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C203_周三_1_20260430223429",
+    "classroom": "C203",
+    "weekday": "周三",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "线性代数",
+    "course_type": "专业课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C203_周三_0_20260430223429",
+    "classroom": "C203",
+    "weekday": "周三",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "软件工程",
+    "course_type": "专业课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C203_周三_3_20260430223429",
+    "classroom": "C203",
+    "weekday": "周三",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "大学化学",
+    "course_type": "公共课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C203_周三_5_20260430223429",
+    "classroom": "C203",
+    "weekday": "周三",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "大学英语",
+    "course_type": "公共课",
+    "teacher": "赵老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C203_周四_6_20260430223429",
+    "classroom": "C203",
+    "weekday": "周四",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "体育",
+    "course_type": "公共课",
+    "teacher": "孙老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C203_周五_5_20260430223429",
+    "classroom": "C203",
+    "weekday": "周五",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "大学化学",
+    "course_type": "公共课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A207_周一_2_20260430223429",
+    "classroom": "A207",
+    "weekday": "周一",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "经济学原理",
+    "course_type": "选修课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A207_周一_5_20260430223429",
+    "classroom": "A207",
+    "weekday": "周一",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "高等数学",
+    "course_type": "专业课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A207_周一_9_20260430223429",
+    "classroom": "A207",
+    "weekday": "周一",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "化学实验",
+    "course_type": "实验课",
+    "teacher": "孙老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A207_周一_7_20260430223429",
+    "classroom": "A207",
+    "weekday": "周一",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "操作系统",
+    "course_type": "专业课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A207_周二_0_20260430223429",
+    "classroom": "A207",
+    "weekday": "周二",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "心理学入门",
+    "course_type": "选修课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A207_周二_1_20260430223429",
+    "classroom": "A207",
+    "weekday": "周二",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "生物实验",
+    "course_type": "实验课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A207_周三_8_20260430223429",
+    "classroom": "A207",
+    "weekday": "周三",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "大学物理",
+    "course_type": "公共课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A207_周四_4_20260430223429",
+    "classroom": "A207",
+    "weekday": "周四",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "高等数学",
+    "course_type": "专业课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A207_周四_8_20260430223429",
+    "classroom": "A207",
+    "weekday": "周四",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "美术鉴赏",
+    "course_type": "选修课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A207_周四_3_20260430223429",
+    "classroom": "A207",
+    "weekday": "周四",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "计算机实验",
+    "course_type": "实验课",
+    "teacher": "赵老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A207_周四_6_20260430223429",
+    "classroom": "A207",
+    "weekday": "周四",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "大学语文",
+    "course_type": "公共课",
+    "teacher": "吴老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A207_周五_5_20260430223429",
+    "classroom": "A207",
+    "weekday": "周五",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "操作系统",
+    "course_type": "专业课",
+    "teacher": "周老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A207_周五_2_20260430223429",
+    "classroom": "A207",
+    "weekday": "周五",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "概率论与数理统计",
+    "course_type": "专业课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A207_周五_4_20260430223429",
+    "classroom": "A207",
+    "weekday": "周五",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "电子技术实验",
+    "course_type": "实验课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A207_周五_6_20260430223429",
+    "classroom": "A207",
+    "weekday": "周五",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "计算机基础",
+    "course_type": "公共课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B208_周一_0_20260430223429",
+    "classroom": "B208",
+    "weekday": "周一",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "化学实验",
+    "course_type": "实验课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B208_周一_3_20260430223429",
+    "classroom": "B208",
+    "weekday": "周一",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "心理学入门",
+    "course_type": "选修课",
+    "teacher": "孙老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B208_周二_5_20260430223429",
+    "classroom": "B208",
+    "weekday": "周二",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "算法设计",
+    "course_type": "专业课",
+    "teacher": "孙老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B208_周三_8_20260430223429",
+    "classroom": "B208",
+    "weekday": "周三",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "软件工程",
+    "course_type": "专业课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B208_周三_6_20260430223429",
+    "classroom": "B208",
+    "weekday": "周三",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "物理实验",
+    "course_type": "实验课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B208_周三_2_20260430223429",
+    "classroom": "B208",
+    "weekday": "周三",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "思想政治理论",
+    "course_type": "公共课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B208_周三_1_20260430223429",
+    "classroom": "B208",
+    "weekday": "周三",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "算法设计",
+    "course_type": "专业课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B208_周四_5_20260430223429",
+    "classroom": "B208",
+    "weekday": "周四",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "文学名著导读",
+    "course_type": "选修课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B208_周四_3_20260430223429",
+    "classroom": "B208",
+    "weekday": "周四",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "生物实验",
+    "course_type": "实验课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B208_周四_9_20260430223429",
+    "classroom": "B208",
+    "weekday": "周四",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "美术鉴赏",
+    "course_type": "选修课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B208_周四_4_20260430223429",
+    "classroom": "B208",
+    "weekday": "周四",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "数据库原理",
+    "course_type": "专业课",
+    "teacher": "孙老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B208_周五_7_20260430223429",
+    "classroom": "B208",
+    "weekday": "周五",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "文学名著导读",
+    "course_type": "选修课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B208_周五_6_20260430223429",
+    "classroom": "B208",
+    "weekday": "周五",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "电子技术实验",
+    "course_type": "实验课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B208_周五_9_20260430223429",
+    "classroom": "B208",
+    "weekday": "周五",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "美术鉴赏",
+    "course_type": "选修课",
+    "teacher": "孙老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B208_周五_8_20260430223429",
+    "classroom": "B208",
+    "weekday": "周五",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "概率论与数理统计",
+    "course_type": "专业课",
+    "teacher": "孙老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A510_周一_2_20260430223429",
+    "classroom": "A510",
+    "weekday": "周一",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "线性代数",
+    "course_type": "专业课",
+    "teacher": "吴老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A510_周二_5_20260430223429",
+    "classroom": "A510",
+    "weekday": "周二",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "大学语文",
+    "course_type": "公共课",
+    "teacher": "孙老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A510_周二_2_20260430223429",
+    "classroom": "A510",
+    "weekday": "周二",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "计算机基础",
+    "course_type": "公共课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A510_周三_6_20260430223429",
+    "classroom": "A510",
+    "weekday": "周三",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "电子技术实验",
+    "course_type": "实验课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A510_周三_7_20260430223429",
+    "classroom": "A510",
+    "weekday": "周三",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "管理学基础",
+    "course_type": "选修课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A510_周四_5_20260430223429",
+    "classroom": "A510",
+    "weekday": "周四",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "管理学基础",
+    "course_type": "选修课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A510_周四_8_20260430223429",
+    "classroom": "A510",
+    "weekday": "周四",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "计算机网络",
+    "course_type": "专业课",
+    "teacher": "孙老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A510_周五_1_20260430223429",
+    "classroom": "A510",
+    "weekday": "周五",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "高等数学",
+    "course_type": "专业课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A510_周五_3_20260430223429",
+    "classroom": "A510",
+    "weekday": "周五",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "大学物理",
+    "course_type": "公共课",
+    "teacher": "赵老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A510_周五_5_20260430223429",
+    "classroom": "A510",
+    "weekday": "周五",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "计算机基础",
+    "course_type": "公共课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A510_周五_7_20260430223429",
+    "classroom": "A510",
+    "weekday": "周五",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "大学物理",
+    "course_type": "公共课",
+    "teacher": "周老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A505_周一_4_20260430223429",
+    "classroom": "A505",
+    "weekday": "周一",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "线性代数",
+    "course_type": "专业课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A505_周一_8_20260430223429",
+    "classroom": "A505",
+    "weekday": "周一",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "大学语文",
+    "course_type": "公共课",
+    "teacher": "周老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A505_周一_3_20260430223429",
+    "classroom": "A505",
+    "weekday": "周一",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "大学化学",
+    "course_type": "公共课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A505_周二_9_20260430223429",
+    "classroom": "A505",
+    "weekday": "周二",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "音乐欣赏",
+    "course_type": "选修课",
+    "teacher": "孙老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A505_周二_7_20260430223429",
+    "classroom": "A505",
+    "weekday": "周二",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "离散数学",
+    "course_type": "专业课",
+    "teacher": "孙老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A505_周二_2_20260430223429",
+    "classroom": "A505",
+    "weekday": "周二",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "文学名著导读",
+    "course_type": "选修课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A505_周二_6_20260430223429",
+    "classroom": "A505",
+    "weekday": "周二",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "文学名著导读",
+    "course_type": "选修课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A505_周三_3_20260430223429",
+    "classroom": "A505",
+    "weekday": "周三",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "离散数学",
+    "course_type": "专业课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A505_周三_6_20260430223429",
+    "classroom": "A505",
+    "weekday": "周三",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "线性代数",
+    "course_type": "专业课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A505_周三_7_20260430223429",
+    "classroom": "A505",
+    "weekday": "周三",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "计算机基础",
+    "course_type": "公共课",
+    "teacher": "赵老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A505_周三_9_20260430223429",
+    "classroom": "A505",
+    "weekday": "周三",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "大学物理",
+    "course_type": "公共课",
+    "teacher": "赵老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A505_周四_9_20260430223429",
+    "classroom": "A505",
+    "weekday": "周四",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "文学名著导读",
+    "course_type": "选修课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A505_周四_4_20260430223429",
+    "classroom": "A505",
+    "weekday": "周四",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "概率论与数理统计",
+    "course_type": "专业课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A505_周五_3_20260430223429",
+    "classroom": "A505",
+    "weekday": "周五",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "线性代数",
+    "course_type": "专业课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A505_周五_2_20260430223429",
+    "classroom": "A505",
+    "weekday": "周五",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "音乐欣赏",
+    "course_type": "选修课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A505_周五_9_20260430223429",
+    "classroom": "A505",
+    "weekday": "周五",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "计算机实验",
+    "course_type": "实验课",
+    "teacher": "孙老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B107_周一_2_20260430223429",
+    "classroom": "B107",
+    "weekday": "周一",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "化学实验",
+    "course_type": "实验课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B107_周一_1_20260430223429",
+    "classroom": "B107",
+    "weekday": "周一",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "生物实验",
+    "course_type": "实验课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B107_周一_7_20260430223429",
+    "classroom": "B107",
+    "weekday": "周一",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "计算机实验",
+    "course_type": "实验课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B107_周一_5_20260430223429",
+    "classroom": "B107",
+    "weekday": "周一",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "生物实验",
+    "course_type": "实验课",
+    "teacher": "周老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B107_周二_4_20260430223429",
+    "classroom": "B107",
+    "weekday": "周二",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "生物实验",
+    "course_type": "实验课",
+    "teacher": "吴老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B107_周三_4_20260430223429",
+    "classroom": "B107",
+    "weekday": "周三",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "计算机实验",
+    "course_type": "实验课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B107_周三_7_20260430223429",
+    "classroom": "B107",
+    "weekday": "周三",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "电子技术实验",
+    "course_type": "实验课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B107_周三_5_20260430223429",
+    "classroom": "B107",
+    "weekday": "周三",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "生物实验",
+    "course_type": "实验课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B107_周三_1_20260430223429",
+    "classroom": "B107",
+    "weekday": "周三",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "生物实验",
+    "course_type": "实验课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B107_周四_6_20260430223429",
+    "classroom": "B107",
+    "weekday": "周四",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "电子技术实验",
+    "course_type": "实验课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B107_周四_7_20260430223429",
+    "classroom": "B107",
+    "weekday": "周四",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "生物实验",
+    "course_type": "实验课",
+    "teacher": "赵老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B107_周四_2_20260430223429",
+    "classroom": "B107",
+    "weekday": "周四",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "物理实验",
+    "course_type": "实验课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B107_周五_8_20260430223429",
+    "classroom": "B107",
+    "weekday": "周五",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "计算机实验",
+    "course_type": "实验课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C202_周一_6_20260430223429",
+    "classroom": "C202",
+    "weekday": "周一",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "大学化学",
+    "course_type": "公共课",
+    "teacher": "吴老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C202_周一_8_20260430223429",
+    "classroom": "C202",
+    "weekday": "周一",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "大学英语",
+    "course_type": "公共课",
+    "teacher": "赵老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C202_周二_5_20260430223429",
+    "classroom": "C202",
+    "weekday": "周二",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "数据结构",
+    "course_type": "专业课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C202_周二_4_20260430223429",
+    "classroom": "C202",
+    "weekday": "周二",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "大学英语",
+    "course_type": "公共课",
+    "teacher": "孙老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C202_周二_3_20260430223429",
+    "classroom": "C202",
+    "weekday": "周二",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "数据结构",
+    "course_type": "专业课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C202_周三_3_20260430223429",
+    "classroom": "C202",
+    "weekday": "周三",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "数据库原理",
+    "course_type": "专业课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C202_周三_8_20260430223429",
+    "classroom": "C202",
+    "weekday": "周三",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "大学语文",
+    "course_type": "公共课",
+    "teacher": "吴老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C202_周三_2_20260430223429",
+    "classroom": "C202",
+    "weekday": "周三",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "软件工程",
+    "course_type": "专业课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C202_周三_4_20260430223429",
+    "classroom": "C202",
+    "weekday": "周三",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "体育",
+    "course_type": "公共课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C202_周四_1_20260430223429",
+    "classroom": "C202",
+    "weekday": "周四",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "概率论与数理统计",
+    "course_type": "专业课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C202_周四_3_20260430223429",
+    "classroom": "C202",
+    "weekday": "周四",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "大学物理",
+    "course_type": "公共课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C202_周四_9_20260430223429",
+    "classroom": "C202",
+    "weekday": "周四",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "思想政治理论",
+    "course_type": "公共课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C202_周五_0_20260430223429",
+    "classroom": "C202",
+    "weekday": "周五",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "体育",
+    "course_type": "公共课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C202_周五_4_20260430223429",
+    "classroom": "C202",
+    "weekday": "周五",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "算法设计",
+    "course_type": "专业课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B403_周一_9_20260430223429",
+    "classroom": "B403",
+    "weekday": "周一",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "大学语文",
+    "course_type": "公共课",
+    "teacher": "孙老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B403_周二_4_20260430223429",
+    "classroom": "B403",
+    "weekday": "周二",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "管理学基础",
+    "course_type": "选修课",
+    "teacher": "吴老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B403_周二_8_20260430223429",
+    "classroom": "B403",
+    "weekday": "周二",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "美术鉴赏",
+    "course_type": "选修课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B403_周三_3_20260430223429",
+    "classroom": "B403",
+    "weekday": "周三",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "体育",
+    "course_type": "公共课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B403_周四_3_20260430223429",
+    "classroom": "B403",
+    "weekday": "周四",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "线性代数",
+    "course_type": "专业课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B403_周四_2_20260430223429",
+    "classroom": "B403",
+    "weekday": "周四",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "音乐欣赏",
+    "course_type": "选修课",
+    "teacher": "吴老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B403_周四_8_20260430223429",
+    "classroom": "B403",
+    "weekday": "周四",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "计算机网络",
+    "course_type": "专业课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B403_周四_6_20260430223429",
+    "classroom": "B403",
+    "weekday": "周四",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "大学物理",
+    "course_type": "公共课",
+    "teacher": "孙老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B403_周五_1_20260430223429",
+    "classroom": "B403",
+    "weekday": "周五",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "电子技术实验",
+    "course_type": "实验课",
+    "teacher": "周老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B403_周五_8_20260430223429",
+    "classroom": "B403",
+    "weekday": "周五",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "生物实验",
+    "course_type": "实验课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B403_周五_9_20260430223429",
+    "classroom": "B403",
+    "weekday": "周五",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "管理学基础",
+    "course_type": "选修课",
+    "teacher": "赵老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B403_周五_2_20260430223429",
+    "classroom": "B403",
+    "weekday": "周五",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "计算机实验",
+    "course_type": "实验课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B503_周一_6_20260430223429",
+    "classroom": "B503",
+    "weekday": "周一",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "离散数学",
+    "course_type": "专业课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B503_周一_2_20260430223429",
+    "classroom": "B503",
+    "weekday": "周一",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "计算机实验",
+    "course_type": "实验课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B503_周一_3_20260430223429",
+    "classroom": "B503",
+    "weekday": "周一",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "电子技术实验",
+    "course_type": "实验课",
+    "teacher": "周老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B503_周二_2_20260430223429",
+    "classroom": "B503",
+    "weekday": "周二",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "管理学基础",
+    "course_type": "选修课",
+    "teacher": "吴老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B503_周二_8_20260430223429",
+    "classroom": "B503",
+    "weekday": "周二",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "大学物理",
+    "course_type": "公共课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B503_周二_1_20260430223429",
+    "classroom": "B503",
+    "weekday": "周二",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "概率论与数理统计",
+    "course_type": "专业课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B503_周三_5_20260430223429",
+    "classroom": "B503",
+    "weekday": "周三",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "思想政治理论",
+    "course_type": "公共课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B503_周三_3_20260430223429",
+    "classroom": "B503",
+    "weekday": "周三",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "美术鉴赏",
+    "course_type": "选修课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B503_周四_1_20260430223429",
+    "classroom": "B503",
+    "weekday": "周四",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "管理学基础",
+    "course_type": "选修课",
+    "teacher": "吴老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B503_周五_3_20260430223429",
+    "classroom": "B503",
+    "weekday": "周五",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "算法设计",
+    "course_type": "专业课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C308_周一_7_20260430223429",
+    "classroom": "C308",
+    "weekday": "周一",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "高等数学",
+    "course_type": "专业课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C308_周一_0_20260430223429",
+    "classroom": "C308",
+    "weekday": "周一",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "物理实验",
+    "course_type": "实验课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C308_周二_8_20260430223429",
+    "classroom": "C308",
+    "weekday": "周二",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "大学物理",
+    "course_type": "公共课",
+    "teacher": "周老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C308_周二_2_20260430223429",
+    "classroom": "C308",
+    "weekday": "周二",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "高等数学",
+    "course_type": "专业课",
+    "teacher": "周老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C308_周二_6_20260430223429",
+    "classroom": "C308",
+    "weekday": "周二",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "心理学入门",
+    "course_type": "选修课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C308_周三_2_20260430223429",
+    "classroom": "C308",
+    "weekday": "周三",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "生物实验",
+    "course_type": "实验课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C308_周四_2_20260430223429",
+    "classroom": "C308",
+    "weekday": "周四",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "计算机实验",
+    "course_type": "实验课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C308_周四_5_20260430223429",
+    "classroom": "C308",
+    "weekday": "周四",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "算法设计",
+    "course_type": "专业课",
+    "teacher": "赵老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C308_周五_3_20260430223429",
+    "classroom": "C308",
+    "weekday": "周五",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "操作系统",
+    "course_type": "专业课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C308_周五_2_20260430223429",
+    "classroom": "C308",
+    "weekday": "周五",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "大学语文",
+    "course_type": "公共课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C308_周五_5_20260430223429",
+    "classroom": "C308",
+    "weekday": "周五",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "经济学原理",
+    "course_type": "选修课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C308_周五_8_20260430223429",
+    "classroom": "C308",
+    "weekday": "周五",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "思想政治理论",
+    "course_type": "公共课",
+    "teacher": "孙老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C505_周一_1_20260430223429",
+    "classroom": "C505",
+    "weekday": "周一",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "体育",
+    "course_type": "公共课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C505_周一_9_20260430223429",
+    "classroom": "C505",
+    "weekday": "周一",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "电子技术实验",
+    "course_type": "实验课",
+    "teacher": "赵老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C505_周一_5_20260430223429",
+    "classroom": "C505",
+    "weekday": "周一",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "文学名著导读",
+    "course_type": "选修课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C505_周一_2_20260430223429",
+    "classroom": "C505",
+    "weekday": "周一",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "线性代数",
+    "course_type": "专业课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C505_周二_5_20260430223429",
+    "classroom": "C505",
+    "weekday": "周二",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "管理学基础",
+    "course_type": "选修课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C505_周二_7_20260430223429",
+    "classroom": "C505",
+    "weekday": "周二",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "管理学基础",
+    "course_type": "选修课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C505_周二_2_20260430223429",
+    "classroom": "C505",
+    "weekday": "周二",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "大学语文",
+    "course_type": "公共课",
+    "teacher": "吴老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C505_周二_3_20260430223429",
+    "classroom": "C505",
+    "weekday": "周二",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "文学名著导读",
+    "course_type": "选修课",
+    "teacher": "周老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C505_周三_6_20260430223429",
+    "classroom": "C505",
+    "weekday": "周三",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "操作系统",
+    "course_type": "专业课",
+    "teacher": "周老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C505_周三_0_20260430223429",
+    "classroom": "C505",
+    "weekday": "周三",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "计算机基础",
+    "course_type": "公共课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C505_周四_6_20260430223429",
+    "classroom": "C505",
+    "weekday": "周四",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "文学名著导读",
+    "course_type": "选修课",
+    "teacher": "赵老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C505_周四_8_20260430223429",
+    "classroom": "C505",
+    "weekday": "周四",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "计算机基础",
+    "course_type": "公共课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C505_周四_5_20260430223429",
+    "classroom": "C505",
+    "weekday": "周四",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "大学语文",
+    "course_type": "公共课",
+    "teacher": "吴老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C505_周四_2_20260430223429",
+    "classroom": "C505",
+    "weekday": "周四",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "化学实验",
+    "course_type": "实验课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C505_周五_3_20260430223429",
+    "classroom": "C505",
+    "weekday": "周五",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "大学英语",
+    "course_type": "公共课",
+    "teacher": "赵老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B108_周一_3_20260430223429",
+    "classroom": "B108",
+    "weekday": "周一",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "计算机实验",
+    "course_type": "实验课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B108_周一_7_20260430223429",
+    "classroom": "B108",
+    "weekday": "周一",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "体育",
+    "course_type": "公共课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B108_周一_9_20260430223429",
+    "classroom": "B108",
+    "weekday": "周一",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "化学实验",
+    "course_type": "实验课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B108_周二_4_20260430223429",
+    "classroom": "B108",
+    "weekday": "周二",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "线性代数",
+    "course_type": "专业课",
+    "teacher": "赵老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B108_周二_5_20260430223429",
+    "classroom": "B108",
+    "weekday": "周二",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "电子技术实验",
+    "course_type": "实验课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B108_周二_7_20260430223429",
+    "classroom": "B108",
+    "weekday": "周二",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "物理实验",
+    "course_type": "实验课",
+    "teacher": "赵老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B108_周二_0_20260430223429",
+    "classroom": "B108",
+    "weekday": "周二",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "物理实验",
+    "course_type": "实验课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B108_周三_3_20260430223429",
+    "classroom": "B108",
+    "weekday": "周三",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "计算机基础",
+    "course_type": "公共课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B108_周三_8_20260430223429",
+    "classroom": "B108",
+    "weekday": "周三",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "文学名著导读",
+    "course_type": "选修课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B108_周三_9_20260430223429",
+    "classroom": "B108",
+    "weekday": "周三",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "美术鉴赏",
+    "course_type": "选修课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B108_周四_0_20260430223429",
+    "classroom": "B108",
+    "weekday": "周四",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "软件工程",
+    "course_type": "专业课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B108_周四_8_20260430223429",
+    "classroom": "B108",
+    "weekday": "周四",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "计算机基础",
+    "course_type": "公共课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B108_周四_4_20260430223429",
+    "classroom": "B108",
+    "weekday": "周四",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "体育",
+    "course_type": "公共课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B108_周四_9_20260430223429",
+    "classroom": "B108",
+    "weekday": "周四",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "概率论与数理统计",
+    "course_type": "专业课",
+    "teacher": "周老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B108_周五_3_20260430223429",
+    "classroom": "B108",
+    "weekday": "周五",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "经济学原理",
+    "course_type": "选修课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A410_周一_6_20260430223429",
+    "classroom": "A410",
+    "weekday": "周一",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "大学语文",
+    "course_type": "公共课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A410_周二_7_20260430223429",
+    "classroom": "A410",
+    "weekday": "周二",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "数据结构",
+    "course_type": "专业课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A410_周二_3_20260430223429",
+    "classroom": "A410",
+    "weekday": "周二",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "数据结构",
+    "course_type": "专业课",
+    "teacher": "周老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A410_周二_0_20260430223429",
+    "classroom": "A410",
+    "weekday": "周二",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "文学名著导读",
+    "course_type": "选修课",
+    "teacher": "赵老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A410_周三_3_20260430223429",
+    "classroom": "A410",
+    "weekday": "周三",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "计算机基础",
+    "course_type": "公共课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A410_周三_5_20260430223429",
+    "classroom": "A410",
+    "weekday": "周三",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "计算机网络",
+    "course_type": "专业课",
+    "teacher": "周老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A410_周四_6_20260430223429",
+    "classroom": "A410",
+    "weekday": "周四",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "文学名著导读",
+    "course_type": "选修课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A410_周四_3_20260430223429",
+    "classroom": "A410",
+    "weekday": "周四",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "美术鉴赏",
+    "course_type": "选修课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A410_周四_9_20260430223429",
+    "classroom": "A410",
+    "weekday": "周四",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "电子技术实验",
+    "course_type": "实验课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A410_周五_6_20260430223429",
+    "classroom": "A410",
+    "weekday": "周五",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "算法设计",
+    "course_type": "专业课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B203_周一_3_20260430223429",
+    "classroom": "B203",
+    "weekday": "周一",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "思想政治理论",
+    "course_type": "公共课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B203_周一_7_20260430223429",
+    "classroom": "B203",
+    "weekday": "周一",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "大学物理",
+    "course_type": "公共课",
+    "teacher": "吴老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B203_周一_6_20260430223429",
+    "classroom": "B203",
+    "weekday": "周一",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "计算机实验",
+    "course_type": "实验课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B203_周二_1_20260430223429",
+    "classroom": "B203",
+    "weekday": "周二",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "化学实验",
+    "course_type": "实验课",
+    "teacher": "周老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B203_周二_2_20260430223429",
+    "classroom": "B203",
+    "weekday": "周二",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "电子技术实验",
+    "course_type": "实验课",
+    "teacher": "吴老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B203_周二_6_20260430223429",
+    "classroom": "B203",
+    "weekday": "周二",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "美术鉴赏",
+    "course_type": "选修课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B203_周二_5_20260430223429",
+    "classroom": "B203",
+    "weekday": "周二",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "线性代数",
+    "course_type": "专业课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B203_周三_3_20260430223429",
+    "classroom": "B203",
+    "weekday": "周三",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "数据库原理",
+    "course_type": "专业课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B203_周三_6_20260430223429",
+    "classroom": "B203",
+    "weekday": "周三",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "音乐欣赏",
+    "course_type": "选修课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B203_周三_1_20260430223429",
+    "classroom": "B203",
+    "weekday": "周三",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "计算机基础",
+    "course_type": "公共课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B203_周三_2_20260430223429",
+    "classroom": "B203",
+    "weekday": "周三",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "计算机实验",
+    "course_type": "实验课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B203_周四_4_20260430223429",
+    "classroom": "B203",
+    "weekday": "周四",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "美术鉴赏",
+    "course_type": "选修课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B203_周五_6_20260430223429",
+    "classroom": "B203",
+    "weekday": "周五",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "物理实验",
+    "course_type": "实验课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B203_周五_8_20260430223429",
+    "classroom": "B203",
+    "weekday": "周五",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "化学实验",
+    "course_type": "实验课",
+    "teacher": "赵老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B203_周五_0_20260430223429",
+    "classroom": "B203",
+    "weekday": "周五",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "软件工程",
+    "course_type": "专业课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A308_周一_0_20260430223429",
+    "classroom": "A308",
+    "weekday": "周一",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "电子技术实验",
+    "course_type": "实验课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A308_周一_1_20260430223429",
+    "classroom": "A308",
+    "weekday": "周一",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "操作系统",
+    "course_type": "专业课",
+    "teacher": "孙老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A308_周一_6_20260430223429",
+    "classroom": "A308",
+    "weekday": "周一",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "概率论与数理统计",
+    "course_type": "专业课",
+    "teacher": "孙老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A308_周一_9_20260430223429",
+    "classroom": "A308",
+    "weekday": "周一",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "化学实验",
+    "course_type": "实验课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A308_周二_3_20260430223429",
+    "classroom": "A308",
+    "weekday": "周二",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "物理实验",
+    "course_type": "实验课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A308_周二_4_20260430223429",
+    "classroom": "A308",
+    "weekday": "周二",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "音乐欣赏",
+    "course_type": "选修课",
+    "teacher": "赵老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A308_周三_7_20260430223429",
+    "classroom": "A308",
+    "weekday": "周三",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "音乐欣赏",
+    "course_type": "选修课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A308_周三_2_20260430223429",
+    "classroom": "A308",
+    "weekday": "周三",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "物理实验",
+    "course_type": "实验课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A308_周四_8_20260430223429",
+    "classroom": "A308",
+    "weekday": "周四",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "电子技术实验",
+    "course_type": "实验课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A308_周四_0_20260430223429",
+    "classroom": "A308",
+    "weekday": "周四",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "计算机基础",
+    "course_type": "公共课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A308_周四_7_20260430223429",
+    "classroom": "A308",
+    "weekday": "周四",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "大学语文",
+    "course_type": "公共课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A308_周五_9_20260430223429",
+    "classroom": "A308",
+    "weekday": "周五",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "计算机实验",
+    "course_type": "实验课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A308_周五_2_20260430223429",
+    "classroom": "A308",
+    "weekday": "周五",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "经济学原理",
+    "course_type": "选修课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B202_周一_6_20260430223429",
+    "classroom": "B202",
+    "weekday": "周一",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "计算机实验",
+    "course_type": "实验课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B202_周一_2_20260430223429",
+    "classroom": "B202",
+    "weekday": "周一",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "生物实验",
+    "course_type": "实验课",
+    "teacher": "孙老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B202_周一_5_20260430223429",
+    "classroom": "B202",
+    "weekday": "周一",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "物理实验",
+    "course_type": "实验课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B202_周二_9_20260430223429",
+    "classroom": "B202",
+    "weekday": "周二",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "电子技术实验",
+    "course_type": "实验课",
+    "teacher": "周老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B202_周三_9_20260430223429",
+    "classroom": "B202",
+    "weekday": "周三",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "化学实验",
+    "course_type": "实验课",
+    "teacher": "吴老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B202_周三_0_20260430223429",
+    "classroom": "B202",
+    "weekday": "周三",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "物理实验",
+    "course_type": "实验课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B202_周四_3_20260430223429",
+    "classroom": "B202",
+    "weekday": "周四",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "计算机实验",
+    "course_type": "实验课",
+    "teacher": "赵老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B202_周四_5_20260430223429",
+    "classroom": "B202",
+    "weekday": "周四",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "化学实验",
+    "course_type": "实验课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B202_周四_7_20260430223429",
+    "classroom": "B202",
+    "weekday": "周四",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "计算机实验",
+    "course_type": "实验课",
+    "teacher": "孙老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B202_周四_8_20260430223429",
+    "classroom": "B202",
+    "weekday": "周四",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "电子技术实验",
+    "course_type": "实验课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B202_周五_1_20260430223429",
+    "classroom": "B202",
+    "weekday": "周五",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "生物实验",
+    "course_type": "实验课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B202_周五_8_20260430223429",
+    "classroom": "B202",
+    "weekday": "周五",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "电子技术实验",
+    "course_type": "实验课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B202_周五_7_20260430223429",
+    "classroom": "B202",
+    "weekday": "周五",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "物理实验",
+    "course_type": "实验课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B202_周五_2_20260430223429",
+    "classroom": "B202",
+    "weekday": "周五",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "化学实验",
+    "course_type": "实验课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C510_周一_3_20260430223429",
+    "classroom": "C510",
+    "weekday": "周一",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "体育",
+    "course_type": "公共课",
+    "teacher": "赵老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C510_周一_9_20260430223429",
+    "classroom": "C510",
+    "weekday": "周一",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "经济学原理",
+    "course_type": "选修课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C510_周一_6_20260430223429",
+    "classroom": "C510",
+    "weekday": "周一",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "生物实验",
+    "course_type": "实验课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C510_周一_0_20260430223429",
+    "classroom": "C510",
+    "weekday": "周一",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "大学物理",
+    "course_type": "公共课",
+    "teacher": "孙老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C510_周二_0_20260430223429",
+    "classroom": "C510",
+    "weekday": "周二",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "音乐欣赏",
+    "course_type": "选修课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C510_周二_4_20260430223429",
+    "classroom": "C510",
+    "weekday": "周二",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "计算机实验",
+    "course_type": "实验课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C510_周二_5_20260430223429",
+    "classroom": "C510",
+    "weekday": "周二",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "大学语文",
+    "course_type": "公共课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C510_周三_1_20260430223429",
+    "classroom": "C510",
+    "weekday": "周三",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "数据库原理",
+    "course_type": "专业课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C510_周三_8_20260430223429",
+    "classroom": "C510",
+    "weekday": "周三",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "计算机网络",
+    "course_type": "专业课",
+    "teacher": "吴老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C510_周三_0_20260430223429",
+    "classroom": "C510",
+    "weekday": "周三",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "大学语文",
+    "course_type": "公共课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C510_周三_3_20260430223429",
+    "classroom": "C510",
+    "weekday": "周三",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "体育",
+    "course_type": "公共课",
+    "teacher": "孙老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C510_周四_3_20260430223429",
+    "classroom": "C510",
+    "weekday": "周四",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "大学物理",
+    "course_type": "公共课",
+    "teacher": "赵老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C510_周四_1_20260430223429",
+    "classroom": "C510",
+    "weekday": "周四",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "思想政治理论",
+    "course_type": "公共课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C510_周四_6_20260430223429",
+    "classroom": "C510",
+    "weekday": "周四",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "思想政治理论",
+    "course_type": "公共课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C510_周四_0_20260430223429",
+    "classroom": "C510",
+    "weekday": "周四",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "数据库原理",
+    "course_type": "专业课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C510_周五_8_20260430223429",
+    "classroom": "C510",
+    "weekday": "周五",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "化学实验",
+    "course_type": "实验课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C510_周五_4_20260430223429",
+    "classroom": "C510",
+    "weekday": "周五",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "心理学入门",
+    "course_type": "选修课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C510_周五_5_20260430223429",
+    "classroom": "C510",
+    "weekday": "周五",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "大学化学",
+    "course_type": "公共课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A408_周一_4_20260430223429",
+    "classroom": "A408",
+    "weekday": "周一",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "计算机实验",
+    "course_type": "实验课",
+    "teacher": "吴老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A408_周二_4_20260430223429",
+    "classroom": "A408",
+    "weekday": "周二",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "音乐欣赏",
+    "course_type": "选修课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A408_周二_1_20260430223429",
+    "classroom": "A408",
+    "weekday": "周二",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "美术鉴赏",
+    "course_type": "选修课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A408_周二_2_20260430223429",
+    "classroom": "A408",
+    "weekday": "周二",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "大学物理",
+    "course_type": "公共课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A408_周三_9_20260430223429",
+    "classroom": "A408",
+    "weekday": "周三",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "体育",
+    "course_type": "公共课",
+    "teacher": "周老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A408_周四_6_20260430223429",
+    "classroom": "A408",
+    "weekday": "周四",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "管理学基础",
+    "course_type": "选修课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A408_周四_5_20260430223429",
+    "classroom": "A408",
+    "weekday": "周四",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "算法设计",
+    "course_type": "专业课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A408_周四_0_20260430223429",
+    "classroom": "A408",
+    "weekday": "周四",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "电子技术实验",
+    "course_type": "实验课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A408_周五_6_20260430223429",
+    "classroom": "A408",
+    "weekday": "周五",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "大学语文",
+    "course_type": "公共课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A103_周一_8_20260430223429",
+    "classroom": "A103",
+    "weekday": "周一",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "生物实验",
+    "course_type": "实验课",
+    "teacher": "周老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A103_周一_9_20260430223429",
+    "classroom": "A103",
+    "weekday": "周一",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "物理实验",
+    "course_type": "实验课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A103_周一_0_20260430223429",
+    "classroom": "A103",
+    "weekday": "周一",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "经济学原理",
+    "course_type": "选修课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A103_周二_1_20260430223429",
+    "classroom": "A103",
+    "weekday": "周二",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "管理学基础",
+    "course_type": "选修课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A103_周三_4_20260430223429",
+    "classroom": "A103",
+    "weekday": "周三",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "高等数学",
+    "course_type": "专业课",
+    "teacher": "吴老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A103_周三_2_20260430223429",
+    "classroom": "A103",
+    "weekday": "周三",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "计算机基础",
+    "course_type": "公共课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A103_周四_5_20260430223429",
+    "classroom": "A103",
+    "weekday": "周四",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "计算机基础",
+    "course_type": "公共课",
+    "teacher": "赵老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A103_周四_1_20260430223429",
+    "classroom": "A103",
+    "weekday": "周四",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "概率论与数理统计",
+    "course_type": "专业课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A103_周五_6_20260430223429",
+    "classroom": "A103",
+    "weekday": "周五",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "生物实验",
+    "course_type": "实验课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A103_周五_9_20260430223429",
+    "classroom": "A103",
+    "weekday": "周五",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "软件工程",
+    "course_type": "专业课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_A103_周五_1_20260430223429",
+    "classroom": "A103",
+    "weekday": "周五",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "概率论与数理统计",
+    "course_type": "专业课",
+    "teacher": "赵老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B505_周一_6_20260430223429",
+    "classroom": "B505",
+    "weekday": "周一",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "数据库原理",
+    "course_type": "专业课",
+    "teacher": "周老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B505_周二_9_20260430223429",
+    "classroom": "B505",
+    "weekday": "周二",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "管理学基础",
+    "course_type": "选修课",
+    "teacher": "周老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B505_周二_0_20260430223429",
+    "classroom": "B505",
+    "weekday": "周二",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "算法设计",
+    "course_type": "专业课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B505_周二_3_20260430223429",
+    "classroom": "B505",
+    "weekday": "周二",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "大学英语",
+    "course_type": "公共课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B505_周三_6_20260430223429",
+    "classroom": "B505",
+    "weekday": "周三",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "化学实验",
+    "course_type": "实验课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B505_周三_7_20260430223429",
+    "classroom": "B505",
+    "weekday": "周三",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "思想政治理论",
+    "course_type": "公共课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B505_周三_1_20260430223429",
+    "classroom": "B505",
+    "weekday": "周三",
+    "time_slots": [
+      "08:55-09:40"
+    ],
+    "course_name": "物理实验",
+    "course_type": "实验课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B505_周三_4_20260430223429",
+    "classroom": "B505",
+    "weekday": "周三",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "大学化学",
+    "course_type": "公共课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B505_周四_9_20260430223429",
+    "classroom": "B505",
+    "weekday": "周四",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "大学英语",
+    "course_type": "公共课",
+    "teacher": "吴老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B505_周四_8_20260430223429",
+    "classroom": "B505",
+    "weekday": "周四",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "生物实验",
+    "course_type": "实验课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B505_周四_4_20260430223429",
+    "classroom": "B505",
+    "weekday": "周四",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "数据库原理",
+    "course_type": "专业课",
+    "teacher": "王教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B505_周五_9_20260430223429",
+    "classroom": "B505",
+    "weekday": "周五",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "化学实验",
+    "course_type": "实验课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B110_周一_9_20260430223429",
+    "classroom": "B110",
+    "weekday": "周一",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "计算机网络",
+    "course_type": "专业课",
+    "teacher": "赵老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B110_周一_7_20260430223429",
+    "classroom": "B110",
+    "weekday": "周一",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "大学物理",
+    "course_type": "公共课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B110_周一_3_20260430223429",
+    "classroom": "B110",
+    "weekday": "周一",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "美术鉴赏",
+    "course_type": "选修课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B110_周一_4_20260430223429",
+    "classroom": "B110",
+    "weekday": "周一",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "大学英语",
+    "course_type": "公共课",
+    "teacher": "吴老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B110_周二_5_20260430223429",
+    "classroom": "B110",
+    "weekday": "周二",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "高等数学",
+    "course_type": "专业课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B110_周三_6_20260430223429",
+    "classroom": "B110",
+    "weekday": "周三",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "美术鉴赏",
+    "course_type": "选修课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B110_周三_0_20260430223429",
+    "classroom": "B110",
+    "weekday": "周三",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "大学语文",
+    "course_type": "公共课",
+    "teacher": "孙老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B110_周四_3_20260430223429",
+    "classroom": "B110",
+    "weekday": "周四",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "物理实验",
+    "course_type": "实验课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_B110_周五_2_20260430223429",
+    "classroom": "B110",
+    "weekday": "周五",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "计算机网络",
+    "course_type": "专业课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C509_周一_2_20260430223429",
+    "classroom": "C509",
+    "weekday": "周一",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "概率论与数理统计",
+    "course_type": "专业课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C509_周一_0_20260430223429",
+    "classroom": "C509",
+    "weekday": "周一",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "生物实验",
+    "course_type": "实验课",
+    "teacher": "吴老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C509_周二_4_20260430223429",
+    "classroom": "C509",
+    "weekday": "周二",
+    "time_slots": [
+      "14:00-14:45"
+    ],
+    "course_name": "生物实验",
+    "course_type": "实验课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C509_周三_2_20260430223429",
+    "classroom": "C509",
+    "weekday": "周三",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "线性代数",
+    "course_type": "专业课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C509_周三_6_20260430223429",
+    "classroom": "C509",
+    "weekday": "周三",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "算法设计",
+    "course_type": "专业课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C509_周四_0_20260430223429",
+    "classroom": "C509",
+    "weekday": "周四",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "文学名著导读",
+    "course_type": "选修课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C509_周五_7_20260430223429",
+    "classroom": "C509",
+    "weekday": "周五",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "大学英语",
+    "course_type": "公共课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C509_周五_8_20260430223429",
+    "classroom": "C509",
+    "weekday": "周五",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "线性代数",
+    "course_type": "专业课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C209_周一_7_20260430223429",
+    "classroom": "C209",
+    "weekday": "周一",
+    "time_slots": [
+      "16:55-17:40"
+    ],
+    "course_name": "线性代数",
+    "course_type": "专业课",
+    "teacher": "陈老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C209_周一_8_20260430223429",
+    "classroom": "C209",
+    "weekday": "周一",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "电子技术实验",
+    "course_type": "实验课",
+    "teacher": "赵老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C209_周一_5_20260430223429",
+    "classroom": "C209",
+    "weekday": "周一",
+    "time_slots": [
+      "14:55-15:40"
+    ],
+    "course_name": "文学名著导读",
+    "course_type": "选修课",
+    "teacher": "周老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C209_周二_9_20260430223429",
+    "classroom": "C209",
+    "weekday": "周二",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "生物实验",
+    "course_type": "实验课",
+    "teacher": "刘老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C209_周三_8_20260430223429",
+    "classroom": "C209",
+    "weekday": "周三",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "美术鉴赏",
+    "course_type": "选修课",
+    "teacher": "张讲师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C209_周三_3_20260430223429",
+    "classroom": "C209",
+    "weekday": "周三",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "化学实验",
+    "course_type": "实验课",
+    "teacher": "杨老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C209_周三_0_20260430223429",
+    "classroom": "C209",
+    "weekday": "周三",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "生物实验",
+    "course_type": "实验课",
+    "teacher": "徐老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C209_周三_2_20260430223429",
+    "classroom": "C209",
+    "weekday": "周三",
+    "time_slots": [
+      "10:00-10:45"
+    ],
+    "course_name": "化学实验",
+    "course_type": "实验课",
+    "teacher": "赵老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C209_周四_0_20260430223429",
+    "classroom": "C209",
+    "weekday": "周四",
+    "time_slots": [
+      "08:00-08:45"
+    ],
+    "course_name": "化学实验",
+    "course_type": "实验课",
+    "teacher": "黄老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C209_周四_6_20260430223429",
+    "classroom": "C209",
+    "weekday": "周四",
+    "time_slots": [
+      "16:00-16:45"
+    ],
+    "course_name": "化学实验",
+    "course_type": "实验课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C209_周四_8_20260430223429",
+    "classroom": "C209",
+    "weekday": "周四",
+    "time_slots": [
+      "18:00-18:45"
+    ],
+    "course_name": "计算机实验",
+    "course_type": "实验课",
+    "teacher": "吴老师",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C209_周五_3_20260430223429",
+    "classroom": "C209",
+    "weekday": "周五",
+    "time_slots": [
+      "10:55-11:40"
+    ],
+    "course_name": "生物实验",
+    "course_type": "实验课",
+    "teacher": "李副教授",
+    "semester": "2026春季"
+  },
+  {
+    "id": "sch_C209_周五_9_20260430223429",
+    "classroom": "C209",
+    "weekday": "周五",
+    "time_slots": [
+      "18:55-19:40"
+    ],
+    "course_name": "软件工程",
+    "course_type": "专业课",
+    "teacher": "吴老师",
+    "semester": "2026春季"
+  }
+]
