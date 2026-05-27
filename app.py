@@ -577,15 +577,12 @@ def generate_mock_schedule():
 load_data()
 
 # ====== 全局 UI 样式优化 (保留核心容器卡片化，剥离微观组件重叠) ======
+# ====== 全局 UI 样式优化 (双模兼容重构版) ======
 st.markdown("""
 <style>
-/* 1. 全局字体引擎接管与背景呼吸感 */
+/* 1. 全局字体与主容器间距 */
 html, body, [class*="css"] {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "PingFang SC", "Microsoft YaHei UI", sans-serif !important;
-    color: #1e293b !important; 
-}
-.stApp {
-    background-color: #f4f7f9; 
 }
 .block-container {
     padding-top: 2rem !important;
@@ -601,44 +598,44 @@ header[data-testid="stHeader"] {
     box-shadow: none !important; 
 }
 
-/* 3. 侧边栏高级质感：独立背景色与右侧边框 */
+/* 3. 侧边栏高级排版 (调用原生语义变量适配深浅色) */
 section[data-testid="stSidebar"] {
-    background-color: #ffffff !important;
-    border-right: 1px solid #e2e8f0;
+    border-right: 1px solid var(--faded-text05);
     box-shadow: 2px 0 8px rgba(0,0,0,0.02);
 }
 section[data-testid="stSidebar"] > div:first-child {
     padding-top: 1.5rem;
 }
 
-/* 4. 仪表盘核心指标 (Metric) 卡片化 */
+/* 4. 仪表盘核心指标 (Metric) 动态卡片化 */
 [data-testid="stMetric"] {
-    background-color: #ffffff;
+    background-color: var(--secondary-background-color);
     border-radius: 12px; 
     padding: 20px 24px !important; 
     box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.04);
-    border: 1px solid #f1f5f9;
-    border-top: 4px solid #4A90D9; 
+    border: 1px solid var(--faded-text05);
+    border-top: 4px solid #4A90D9; /* 保持品牌蓝条约束 */
 }
 [data-testid="stMetricLabel"] {
     font-size: 0.9rem !important;
-    color: #64748b !important;
     font-weight: 500 !important;
     margin-bottom: 0.5rem;
+    color: var(--text-color);
+    opacity: 0.8;
 }
 [data-testid="stMetricValue"] {
     font-size: 2.2rem !important;
     font-weight: 700 !important;
-    color: #0f172a !important;
+    color: var(--text-color);
 }
 
-/* 5. 图表与数据表容器卡片化与悬浮动效 */
+/* 5. 图表与数据表容器双模动态自适应 */
 [data-testid="stPlotlyChart"], [data-testid="stDataFrame"] {
-    background-color: #ffffff;
+    background-color: var(--secondary-background-color);
     border-radius: 12px;
     padding: 16px;
     box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.04);
-    border: 1px solid #e2e8f0;
+    border: 1px solid var(--faded-text05);
     margin-bottom: 1.5rem;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
@@ -647,16 +644,15 @@ section[data-testid="stSidebar"] > div:first-child {
     box-shadow: 0 8px 15px -3px rgba(0, 0, 0, 0.08);
 }
 
-/* 6. 标题与分割线排版优化 */
+/* 6. 标题、分割线及垂直压缩 */
 hr {
     margin-top: 1.5rem !important;
     margin-bottom: 1.5rem !important;
-    border-color: #e2e8f0;
+    border-color: var(--faded-text05);
 }
 h1, h2, h3 {
     letter-spacing: -0.02em; 
 }
-/* 压缩主内容区各独立组件之间的默认垂直间距 */
 [data-testid="stVerticalBlock"] {
     gap: 0.2rem !important;
 }
@@ -666,7 +662,6 @@ h1, h2, h3 {
 }
 </style>
 """, unsafe_allow_html=True)
-
 st.sidebar.title("🏫 教室空位管理系统")
 st.sidebar.markdown("---")
 
