@@ -576,7 +576,7 @@ def generate_mock_schedule():
 
 load_data()
 
-# ====== 全局 UI 样式优化 (双模兼容稳重版) ======
+# ====== 全局 UI 样式优化 (侧边栏阴影包裹版) ======
 st.markdown("""
 <style>
 /* 1. 全局字体与主容器间距 */
@@ -585,7 +585,7 @@ html, body, [class*="css"] {
 }
 .block-container { padding-top: 2rem !important; padding-bottom: 2rem !important; max-width: 95% !important; }
 
-/* 🌟 2. 精准隐藏 Deploy 按钮，但【保留右侧设置菜单】，恢复暗色模式！ */
+/* 2. 精准隐藏 Deploy 按钮，保留右侧设置菜单 */
 .stDeployButton, [data-testid="stAppDeployButton"] { display: none !important; }
 header[data-testid="stHeader"] { background-color: transparent !important; box-shadow: none !important; }
 
@@ -593,7 +593,7 @@ header[data-testid="stHeader"] { background-color: transparent !important; box-s
 section[data-testid="stSidebar"] { border-right: 1px solid var(--faded-text05); }
 section[data-testid="stSidebar"] > div:first-child { padding-top: 1.5rem; }
 
-/* 4. 数据卡片双模动态自适应 (剥离回弹动画) */
+/* 4. 数据卡片双模动态自适应 */
 [data-testid="stMetric"], [data-testid="stPlotlyChart"], [data-testid="stDataFrame"] {
     background-color: var(--secondary-background-color);
     border-radius: 12px;
@@ -605,9 +605,41 @@ section[data-testid="stSidebar"] > div:first-child { padding-top: 1.5rem; }
 [data-testid="stMetricLabel"] { font-size: 0.9rem !important; font-weight: 500 !important; color: var(--text-color); opacity: 0.8; margin-bottom: 0.5rem; }
 [data-testid="stMetricValue"] { font-size: 2.2rem !important; font-weight: 700 !important; color: var(--text-color); }
 
-/* 5. 胶囊分段导航 (保留高极感，去除物理位移动画) */
-div[data-testid="stRadio"] { margin-bottom: 1rem; }
-div[data-testid="stRadio"] > div {
+/* 🌟 5. 侧边栏专属：垂直导航栏的选中阴影包裹态 */
+section[data-testid="stSidebar"] div[data-testid="stRadio"] > div {
+    display: flex !important;
+    flex-direction: column !important; /* 强制垂直排列 */
+    gap: 6px !important; /* 菜单项垂直间距 */
+    background-color: transparent !important; /* 剥离外层灰色底 */
+    border: none !important;
+    padding: 0 10px !important;
+}
+section[data-testid="stSidebar"] div[data-testid="stRadio"] div[role="radiogroup"] > label > div:first-child { display: none !important; }
+section[data-testid="stSidebar"] div[data-testid="stRadio"] label {
+    padding: 10px 16px !important; /* 扩大单项点击面积 */
+    border-radius: 8px !important;
+    margin: 0 !important;
+    cursor: pointer;
+    background-color: transparent;
+    width: 100%;
+    transition: all 0.2s ease;
+}
+section[data-testid="stSidebar"] div[data-testid="stRadio"] label:hover {
+    background-color: rgba(150, 150, 150, 0.1) !important; /* 悬浮时的底色反馈 */
+}
+section[data-testid="stSidebar"] div[data-testid="stRadio"] label[data-checked="true"] {
+    background-color: var(--secondary-background-color) !important; /* 双模背景自适应 */
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1), 0 1px 3px rgba(0,0,0,0.05) !important; /* 强烈的物理浮起阴影 */
+    border: 1px solid var(--faded-text05);
+}
+section[data-testid="stSidebar"] div[data-testid="stRadio"] label[data-checked="true"] p {
+    font-weight: 700 !important;
+    color: #4A90D9 !important;
+}
+
+/* 6. 主内容区：保留横向胶囊导航 (互不干扰) */
+.block-container div[data-testid="stRadio"] { margin-bottom: 1rem; }
+.block-container div[data-testid="stRadio"] > div {
     background-color: var(--secondary-background-color);
     padding: 4px !important;
     border-radius: 10px;
@@ -615,22 +647,22 @@ div[data-testid="stRadio"] > div {
     gap: 4px;
     border: 1px solid var(--faded-text05);
 }
-div[data-testid="stRadio"] div[role="radiogroup"] > label > div:first-child { display: none !important; }
-div[data-testid="stRadio"] label {
+.block-container div[data-testid="stRadio"] div[role="radiogroup"] > label > div:first-child { display: none !important; }
+.block-container div[data-testid="stRadio"] label {
     padding: 8px 20px !important;
     border-radius: 6px !important;
     margin: 0 !important;
     cursor: pointer;
     background-color: transparent;
 }
-div[data-testid="stRadio"] label[data-checked="true"] {
+.block-container div[data-testid="stRadio"] label[data-checked="true"] {
     background-color: var(--background-color) !important;
     box-shadow: 0 2px 4px rgba(0,0,0,0.05), 0 0 0 1px var(--faded-text05);
     color: #4A90D9 !important;
 }
-div[data-testid="stRadio"] label[data-checked="true"] p { font-weight: 600 !important; }
+.block-container div[data-testid="stRadio"] label[data-checked="true"] p { font-weight: 600 !important; }
 
-/* 6. 现代 UI：提示框左侧强调线 */
+/* 7. 现代 UI：提示框左侧强调线 */
 [data-testid="stAlert"] {
     border: none !important;
     background-color: var(--secondary-background-color) !important;
@@ -642,7 +674,7 @@ div[data-testid="stRadio"] label[data-checked="true"] p { font-weight: 600 !impo
 [data-testid="stAlert"][data-baseweb="notification"]:has(svg[data-testid="stIconWarning"]) { border-left: 4px solid #F1C40F !important; }
 [data-testid="stAlert"][data-baseweb="notification"]:has(svg[data-testid="stIconError"]) { border-left: 4px solid #E74C3C !important; }
 
-/* 7. 细节微调 */
+/* 8. 细节微调 */
 hr { margin-top: 1rem !important; margin-bottom: 1rem !important; border-color: var(--faded-text05); }
 [data-testid="stVerticalBlock"] { gap: 0.2rem !important; }
 [data-testid="stVerticalBlock"] > div { padding-top: 0 !important; padding-bottom: 0 !important; }
