@@ -576,105 +576,88 @@ def generate_mock_schedule():
 
 load_data()
 
-# ====== 全局 UI 样式优化 (Apple iOS 极致拟真版) ======
+# ====== 全局 UI 样式优化 (顶尖商业 SaaS 级重构) ======
 st.markdown("""
 <style>
-/* 1. 苹果字体引擎与极致抗锯齿 */
-html, body, [class*="css"] {
-    font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", Arial, sans-serif !important;
-    -webkit-font-smoothing: antialiased !important; 
-}
-.block-container { padding-top: 2rem !important; max-width: 95% !important; }
-
-/* 2. 隐藏冗余组件 */
-.stDeployButton, [data-testid="stActionElements"], header[data-testid="stHeader"] { display: none !important; }
-
-/* 🌟 3. 侧边栏：毛玻璃特效 (Glassmorphism) */
-section[data-testid="stSidebar"] {
-    background-color: rgba(255, 255, 255, 0.6) !important; 
-    backdrop-filter: blur(20px) !important; 
-    -webkit-backdrop-filter: blur(20px) !important;
-    border-right: 1px solid rgba(0, 0, 0, 0.05) !important;
-}
-@media (prefers-color-scheme: dark) {
-    section[data-testid="stSidebar"] {
-        background-color: rgba(30, 30, 30, 0.6) !important;
-        border-right: 1px solid rgba(255, 255, 255, 0.1) !important;
-    }
-}
+/* --- 1. 宏观排版与侧边栏 (保持原有的优秀底子) --- */
+html, body, [class*="css"] { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important; }
+.block-container { padding-top: 2rem !important; padding-bottom: 2rem !important; max-width: 95% !important; }
+.stDeployButton, .stAppDeployButton, [data-testid="stActionElements"] { display: none !important; }
+header[data-testid="stHeader"] { background-color: transparent !important; box-shadow: none !important; }
+section[data-testid="stSidebar"] { border-right: 1px solid var(--faded-text05); box-shadow: 2px 0 12px rgba(0,0,0,0.02); }
 section[data-testid="stSidebar"] > div:first-child { padding-top: 1.5rem; }
 
-/* 🌟 4. 数据卡片：苹果大圆角 (Squircles) 与多层柔和阴影 */
+/* --- 2. 卡片化容器 (Metrics, Charts, DataFrames) --- */
 [data-testid="stMetric"], [data-testid="stPlotlyChart"], [data-testid="stDataFrame"] {
     background-color: var(--secondary-background-color);
-    border-radius: 16px !important; 
-    border: 1px solid var(--faded-text05) !important;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.03), 0 1px 3px rgba(0, 0, 0, 0.02) !important; 
-    transition: transform 0.3s cubic-bezier(0.25, 0.8, 0.25, 1), box-shadow 0.3s cubic-bezier(0.25, 0.8, 0.25, 1) !important;
+    border-radius: 12px; 
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.03);
+    border: 1px solid var(--faded-text05);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
-[data-testid="stMetric"] { padding: 20px 24px !important; }
+[data-testid="stMetric"] { padding: 20px 24px !important; border-top: 4px solid #4A90D9; }
 [data-testid="stPlotlyChart"], [data-testid="stDataFrame"] { padding: 16px; margin-bottom: 1.5rem; }
+[data-testid="stPlotlyChart"]:hover, [data-testid="stDataFrame"]:hover { transform: translateY(-2px); box-shadow: 0 8px 15px -3px rgba(0, 0, 0, 0.08); }
+[data-testid="stMetricLabel"] { font-size: 0.9rem !important; font-weight: 500 !important; color: var(--text-color); opacity: 0.8; margin-bottom: 0.5rem; }
+[data-testid="stMetricValue"] { font-size: 2.2rem !important; font-weight: 700 !important; color: var(--text-color); }
 
-/* 🌟 5. 交互反馈：悬浮浮起与点击按压回弹 (Micro-interactions) */
-[data-testid="stPlotlyChart"]:hover, [data-testid="stDataFrame"]:hover {
-    transform: translateY(-4px) !important;
-    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.08), 0 4px 8px rgba(0, 0, 0, 0.04) !important;
-}
-.stButton button {
-    border-radius: 12px !important;
-    font-weight: 600 !important;
-    transition: all 0.2s cubic-bezier(0.25, 0.8, 0.25, 1) !important;
-}
-.stButton button:active {
-    transform: scale(0.95) !important; /* 核心反馈：按下去瞬间缩小 5% */
-    opacity: 0.8 !important;
-}
-
-/* 🌟 6. 导航栏：iOS 分段控制器 (Segmented Control) */
+/* --- 🌟 3. 核心突破：将 Radio 按钮重塑为高级「胶囊分段导航」 --- */
+div[data-testid="stRadio"] { margin-bottom: 1rem; }
 div[data-testid="stRadio"] > div {
-    background-color: rgba(0, 0, 0, 0.05) !important; 
+    background-color: var(--secondary-background-color);
     padding: 4px !important;
-    border-radius: 12px !important;
+    border-radius: 10px;
     display: inline-flex !important;
     gap: 4px;
-    border: none !important;
+    border: 1px solid var(--faded-text05);
 }
-@media (prefers-color-scheme: dark) {
-    div[data-testid="stRadio"] > div { background-color: rgba(255, 255, 255, 0.1) !important; }
-}
+/* 隐藏原生的小圆圈 */
 div[data-testid="stRadio"] div[role="radiogroup"] > label > div:first-child { display: none !important; }
+/* 重新设计标签样式 */
 div[data-testid="stRadio"] label {
-    padding: 8px 24px !important;
-    border-radius: 8px !important;
+    padding: 8px 20px !important;
+    border-radius: 6px !important;
     margin: 0 !important;
     cursor: pointer;
-    transition: all 0.2s cubic-bezier(0.25, 0.8, 0.25, 1) !important;
+    background-color: transparent;
+    transition: all 0.2s ease;
 }
-div[data-testid="stRadio"] label:active {
-    transform: scale(0.94) !important; /* 切换导航时产生阻尼回弹 */
-}
+div[data-testid="stRadio"] label:hover { background-color: var(--background-color); }
+/* 选中状态的立体感 */
 div[data-testid="stRadio"] label[data-checked="true"] {
     background-color: var(--background-color) !important;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.08) !important; 
-    color: var(--text-color) !important;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05), 0 0 0 1px var(--faded-text05);
+    color: #4A90D9 !important;
 }
+div[data-testid="stRadio"] label[data-checked="true"] p { font-weight: 600 !important; }
 
-/* 🌟 7. 输入框：类似 iPhone 密码框的聚焦蓝光 */
-[data-baseweb="input"] > div, [data-baseweb="select"] > div {
-    border-radius: 10px !important;
-    transition: all 0.25s ease !important;
+/* --- 🌟 4. 现代 UI：提示框 (Alerts) 左侧强调线风格 --- */
+[data-testid="stAlert"] {
+    border: none !important;
     background-color: var(--secondary-background-color) !important;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.04) !important;
+    border-radius: 4px 8px 8px 4px !important;
+}
+/* 通过不同颜色的左边框区分信息层级 */
+[data-testid="stAlert"][data-baseweb="notification"]:has(svg[data-testid="stIconInfo"]) { border-left: 4px solid #4A90D9 !important; }
+[data-testid="stAlert"][data-baseweb="notification"]:has(svg[data-testid="stIconSuccess"]) { border-left: 4px solid #2ECC71 !important; }
+[data-testid="stAlert"][data-baseweb="notification"]:has(svg[data-testid="stIconWarning"]) { border-left: 4px solid #F1C40F !important; }
+[data-testid="stAlert"][data-baseweb="notification"]:has(svg[data-testid="stIconError"]) { border-left: 4px solid #E74C3C !important; }
+
+/* --- 🌟 5. 表单交互：输入框蓝光聚焦特效 --- */
+[data-baseweb="input"] > div, [data-baseweb="select"] > div {
+    border-radius: 8px !important;
+    transition: all 0.2s ease;
 }
 [data-baseweb="input"] > div:focus-within, [data-baseweb="select"] > div:focus-within {
-    box-shadow: 0 0 0 4px rgba(10, 132, 255, 0.2) !important; /* 苹果原生蓝 */
-    border-color: #0A84FF !important;
+    box-shadow: 0 0 0 3px rgba(74, 144, 217, 0.15) !important;
+    border-color: #4A90D9 !important;
 }
 
-/* 隐藏原生下划线 Tab，改为极简风格 */
-[data-baseweb="tab"] { transition: color 0.2s !important; }
-[data-baseweb="tab"]:active { transform: scale(0.95) !important; }
-
-hr { border-color: var(--faded-text05); }
+/* --- 细节微调 --- */
+hr { margin-top: 1.5rem !important; margin-bottom: 1.5rem !important; border-color: var(--faded-text05); }
+[data-testid="stVerticalBlock"] { gap: 0.2rem !important; }
+[data-testid="stVerticalBlock"] > div { padding-top: 0 !important; padding-bottom: 0 !important; }
 </style>
 """, unsafe_allow_html=True)
 st.sidebar.title("🏫 教室空位管理系统")
