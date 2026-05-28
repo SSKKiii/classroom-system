@@ -1834,13 +1834,12 @@ elif page == "📝 记录使用":
                     st.rerun()
 
 # ====== 统计分析 ======
-# ====== 统计分析 ======
 elif page == "📈 统计分析":
     if not st.session_state.records:
         st.warning("暂无使用记录数据")
     else:
         # --- 🌟 核心优化：增加全局时间切片器 (Date Filter) ---
-        st.markdown("---")
+        st.markdown("---")  <--- 就是这一行！
         col_date1, col_date2 = st.columns([1, 2])
 
         with col_date1:
