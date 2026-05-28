@@ -576,32 +576,36 @@ def generate_mock_schedule():
 
 load_data()
 
-# ====== 全局 UI 样式优化 (顶尖商业 SaaS 级重构) ======
+# ====== 全局 UI 样式优化 (双模兼容稳重版) ======
 st.markdown("""
 <style>
-/* --- 1. 宏观排版与侧边栏 (保持原有的优秀底子) --- */
-html, body, [class*="css"] { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important; }
+/* 1. 全局字体与主容器间距 */
+html, body, [class*="css"] {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
+}
 .block-container { padding-top: 2rem !important; padding-bottom: 2rem !important; max-width: 95% !important; }
-.stDeployButton, .stAppDeployButton, [data-testid="stActionElements"] { display: none !important; }
+
+/* 🌟 2. 精准隐藏 Deploy 按钮，但【保留右侧设置菜单】，恢复暗色模式！ */
+.stDeployButton, [data-testid="stAppDeployButton"] { display: none !important; }
 header[data-testid="stHeader"] { background-color: transparent !important; box-shadow: none !important; }
-section[data-testid="stSidebar"] { border-right: 1px solid var(--faded-text05); box-shadow: 2px 0 12px rgba(0,0,0,0.02); }
+
+/* 3. 侧边栏高级排版 */
+section[data-testid="stSidebar"] { border-right: 1px solid var(--faded-text05); }
 section[data-testid="stSidebar"] > div:first-child { padding-top: 1.5rem; }
 
-/* --- 2. 卡片化容器 (Metrics, Charts, DataFrames) --- */
+/* 4. 数据卡片双模动态自适应 (剥离回弹动画) */
 [data-testid="stMetric"], [data-testid="stPlotlyChart"], [data-testid="stDataFrame"] {
     background-color: var(--secondary-background-color);
-    border-radius: 12px; 
-    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.03);
+    border-radius: 12px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.04);
     border: 1px solid var(--faded-text05);
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 [data-testid="stMetric"] { padding: 20px 24px !important; border-top: 4px solid #4A90D9; }
 [data-testid="stPlotlyChart"], [data-testid="stDataFrame"] { padding: 16px; margin-bottom: 1.5rem; }
-[data-testid="stPlotlyChart"]:hover, [data-testid="stDataFrame"]:hover { transform: translateY(-2px); box-shadow: 0 8px 15px -3px rgba(0, 0, 0, 0.08); }
 [data-testid="stMetricLabel"] { font-size: 0.9rem !important; font-weight: 500 !important; color: var(--text-color); opacity: 0.8; margin-bottom: 0.5rem; }
 [data-testid="stMetricValue"] { font-size: 2.2rem !important; font-weight: 700 !important; color: var(--text-color); }
 
-/* --- 🌟 3. 核心突破：将 Radio 按钮重塑为高级「胶囊分段导航」 --- */
+/* 5. 胶囊分段导航 (保留高极感，去除物理位移动画) */
 div[data-testid="stRadio"] { margin-bottom: 1rem; }
 div[data-testid="stRadio"] > div {
     background-color: var(--secondary-background-color);
@@ -611,19 +615,14 @@ div[data-testid="stRadio"] > div {
     gap: 4px;
     border: 1px solid var(--faded-text05);
 }
-/* 隐藏原生的小圆圈 */
 div[data-testid="stRadio"] div[role="radiogroup"] > label > div:first-child { display: none !important; }
-/* 重新设计标签样式 */
 div[data-testid="stRadio"] label {
     padding: 8px 20px !important;
     border-radius: 6px !important;
     margin: 0 !important;
     cursor: pointer;
     background-color: transparent;
-    transition: all 0.2s ease;
 }
-div[data-testid="stRadio"] label:hover { background-color: var(--background-color); }
-/* 选中状态的立体感 */
 div[data-testid="stRadio"] label[data-checked="true"] {
     background-color: var(--background-color) !important;
     box-shadow: 0 2px 4px rgba(0,0,0,0.05), 0 0 0 1px var(--faded-text05);
@@ -631,31 +630,20 @@ div[data-testid="stRadio"] label[data-checked="true"] {
 }
 div[data-testid="stRadio"] label[data-checked="true"] p { font-weight: 600 !important; }
 
-/* --- 🌟 4. 现代 UI：提示框 (Alerts) 左侧强调线风格 --- */
+/* 6. 现代 UI：提示框左侧强调线 */
 [data-testid="stAlert"] {
     border: none !important;
     background-color: var(--secondary-background-color) !important;
     box-shadow: 0 1px 3px rgba(0,0,0,0.04) !important;
     border-radius: 4px 8px 8px 4px !important;
 }
-/* 通过不同颜色的左边框区分信息层级 */
 [data-testid="stAlert"][data-baseweb="notification"]:has(svg[data-testid="stIconInfo"]) { border-left: 4px solid #4A90D9 !important; }
 [data-testid="stAlert"][data-baseweb="notification"]:has(svg[data-testid="stIconSuccess"]) { border-left: 4px solid #2ECC71 !important; }
 [data-testid="stAlert"][data-baseweb="notification"]:has(svg[data-testid="stIconWarning"]) { border-left: 4px solid #F1C40F !important; }
 [data-testid="stAlert"][data-baseweb="notification"]:has(svg[data-testid="stIconError"]) { border-left: 4px solid #E74C3C !important; }
 
-/* --- 🌟 5. 表单交互：输入框蓝光聚焦特效 --- */
-[data-baseweb="input"] > div, [data-baseweb="select"] > div {
-    border-radius: 8px !important;
-    transition: all 0.2s ease;
-}
-[data-baseweb="input"] > div:focus-within, [data-baseweb="select"] > div:focus-within {
-    box-shadow: 0 0 0 3px rgba(74, 144, 217, 0.15) !important;
-    border-color: #4A90D9 !important;
-}
-
-/* --- 细节微调 --- */
-hr { margin-top: 1.5rem !important; margin-bottom: 1.5rem !important; border-color: var(--faded-text05); }
+/* 7. 细节微调 */
+hr { margin-top: 1rem !important; margin-bottom: 1rem !important; border-color: var(--faded-text05); }
 [data-testid="stVerticalBlock"] { gap: 0.2rem !important; }
 [data-testid="stVerticalBlock"] > div { padding-top: 0 !important; padding-bottom: 0 !important; }
 </style>
