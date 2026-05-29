@@ -688,7 +688,6 @@ elif page == "⚙️ 数据源与配置":
 if page == "📊 仪表盘":
     st.title("📊 仪表盘")
 
-    # 1. 顶部核心指标
     col1, col2, col3, col4 = st.columns(4)
     with col1:
         st.metric("教室总数", len(st.session_state.classrooms))
@@ -706,9 +705,6 @@ if page == "📊 仪表盘":
                 available_count += 1
         st.metric("当前空闲", f"{available_count}/{len(st.session_state.classrooms)}")
 
-    # 删除此处的 st.markdown("---") 以压缩空间
-
-    # 2. 当前状态表格化 (替代原有的散乱文本列表)
     if current_slot:
         st.subheader(f"📍 当前状态 ({current_weekday} {current_date} {current_slot})")
         
@@ -747,15 +743,11 @@ if page == "📊 仪表盘":
             
         if dashboard_status:
             df_dash = pd.DataFrame(dashboard_status)
-            # 排序：优先显示被占用的教室，同状态下按教室名排序
             df_dash['_sort_status'] = df_dash['状态'].apply(lambda x: 0 if '占用' in x else 1)
             df_dash = df_dash.sort_values(by=['_sort_status', '教室']).drop(columns=['_sort_status'])
             
             st.dataframe(df_dash, use_container_width=True, hide_index=True)
 
-    # 删除此处的 st.markdown("---") 以压缩空间
-
-    # 3. 使用趋势 (调换位置：移至最近记录上方)
     if len(st.session_state.records) >= 2:
         st.subheader("📈 使用趋势")
         usage_by_date = {}
@@ -778,14 +770,13 @@ if page == "📊 仪表盘":
                 xaxis=dict(tickangle=0, type='category', title=''),
                 yaxis=dict(title='', rangemode='tozero'),
                 margin=dict(l=0, r=20, t=20, b=0),
-                height=280, plot_bgcolor='white'  # 进一步压缩图表高度
+                height=280, plot_bgcolor='white' 
             )
             fig_trend.update_yaxes(showgrid=True, gridwidth=1, gridcolor='#f0f0f0')
             st.plotly_chart(fig_trend, use_container_width=True)
 
-    # 4. 最近记录 (调换位置：移至最下方)
     if st.session_state.records:
-        recent = sorted(st.session_state.records, key=lambda x: x.get('created_at', ''), reverse=True)[:5] # 将显示条数压缩为5条
+        recent = sorted(st.session_state.records, key=lambda x: x.get('created_at', ''), reverse=True)[:5]
         st.subheader("📝 最近使用记录")
         for r in recent:
             slots = ', '.join(r.get('time_slots', [])) if r.get('time_slots') else r.get('time_slot', '-')
