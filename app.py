@@ -796,48 +796,6 @@ if page == "📊 仪表盘":
 
     st.markdown("---")
 
-    # 使用趋势
-    if len(st.session_state.records) >= 2:
-        st.subheader("📈 使用趋势")
-        usage_by_date = {}
-        for r in st.session_state.records:
-            d = r.get('date', '')
-            if d:
-                usage_by_date[d] = usage_by_date.get(d, 0) + 1
-
-        if usage_by_date:
-            dates = sorted(usage_by_date.keys())[-14:]
-            counts = [usage_by_date[d] for d in dates]
-
-            # --- 优化点 1：将日期截断，去掉年份（如 2026-04-24 变为 04-24），极大节省横向空间 ---
-            short_dates = [d[5:] for d in dates]
-            chart_data = pd.DataFrame({'日期': short_dates, '使用次数': counts})
-
-            # --- 优化点 2：使用 Plotly 替代原生折线图，支持数据点悬停显示和高级排版 ---
-            fig_trend = px.line(
-                chart_data,
-                x='日期',
-                y='使用次数',
-                markers=True,  # 显示数据圆点
-                color_discrete_sequence=['#4A90D9']
-            )
-
-            fig_trend.update_layout(
-                xaxis=dict(
-                    tickangle=0,  # 强制刻度文字 0度绝对水平
-                    type='category',  # 保持日期的顺序不被打乱
-                    title=''  # 隐藏下方多余的“日期”两个字
-                ),
-                yaxis=dict(title='', rangemode='tozero'),  # Y轴从0开始
-                margin=dict(l=0, r=20, t=30, b=0),
-                height=350,
-                plot_bgcolor='white'
-            )
-
-            # 增加水平虚线网格，提升可读性
-            fig_trend.update_yaxes(showgrid=True, gridwidth=1, gridcolor='#f0f0f0')
-
-            st.plotly_chart(fig_trend, use_container_width=True)
 
 # ====== 教室管理 ======
 elif page == "🏢 教室管理":
