@@ -688,6 +688,7 @@ elif page == "⚙️ 数据源与配置":
 if page == "📊 仪表盘":
     st.title("📊 仪表盘")
 
+    # 1. 顶部核心指标
     col1, col2, col3, col4 = st.columns(4)
     with col1:
         st.metric("教室总数", len(st.session_state.classrooms))
@@ -705,52 +706,92 @@ if page == "📊 仪表盘":
                 available_count += 1
         st.metric("当前空闲", f"{available_count}/{len(st.session_state.classrooms)}")
 
-    st.markdown("---")
+    # 删除此处的 st.markdown("---") 以压缩空间
 
-    # 当前状态概览
+    # 2. 当前状态表格化 (替代原有的散乱文本列表)
     if current_slot:
         st.subheader(f"📍 当前状态 ({current_weekday} {current_date} {current_slot})")
-
-        col1, col2 = st.columns(2)
-        with col1:
-            st.write("**🔴 被占用的教室**")
-            occupied = []
-            for cr in st.session_state.classrooms:
-                avail, source, info = is_room_available(cr['name'], current_date, current_slot)
-                if not avail:
-                    if source == "排课":
-                        occupied.append(f"{cr['name']} - {info.get('course_name', '')}(排课)")
+        
+        dashboard_status = []
+        for cr in st.session_state.classrooms:
+            avail, source, info = is_room_available(cr['name'], current_date, current_slot)
+            status_text = "🟢 空闲" if avail else "🔴 占用"
+            detail_text = ""
+            
+            if not avail:
+                if source == "排课":
+                    detail_text = f"排课：{info.get('course_name', '')} ({info.get('teacher', '')})"
+                elif info.get('usage_type') in PRIORITY_TYPES:
+                    ut = info.get('usage_type', '')
+                    if ut == '上课' or ut == '考试':
+                        course = info.get('course_name', '').strip()
+                        detail_text = f"{ut}：{course} ({info.get('user_name', '')})" if course else f"有人{ut}"
+                    elif ut == '讲座' or ut == '会议':
+                        org = info.get('organizer', '').strip()
+                        detail_text = f"{ut}：{org}" if org else f"有人{ut}"
                     else:
-                        occupied.append(f"{cr['name']} - {info.get('user_name', '')}({info.get('usage_type', '')})")
-            if occupied:
-                for item in occupied:
-                    st.write(f"  • {item}")
-            else:
-                st.write("  无")
+                        detail_text = f"占用：{info.get('user_name', '')} ({ut})"
+                else:
+                    total = cr.get('total_seats', 0)
+                    used = get_total_used_seats(cr['name'], current_date, current_slot)
+                    remain = max(0, total - used)
+                    detail_text = f"自习共享 (剩余 {remain} 座)"
+                    
+            dashboard_status.append({
+                '教室': cr['name'],
+                '类型': cr.get('type', '普通教室'),
+                '容量': cr.get('total_seats', 0),
+                '状态': status_text,
+                '详情': detail_text
+            })
+            
+        if dashboard_status:
+            df_dash = pd.DataFrame(dashboard_status)
+            # 排序：优先显示被占用的教室，同状态下按教室名排序
+            df_dash['_sort_status'] = df_dash['状态'].apply(lambda x: 0 if '占用' in x else 1)
+            df_dash = df_dash.sort_values(by=['_sort_status', '教室']).drop(columns=['_sort_status'])
+            
+            st.dataframe(df_dash, use_container_width=True, hide_index=True)
 
-        with col2:
-            st.write("**🟢 空闲的教室**")
-            available_list = []
-            for cr in st.session_state.classrooms:
-                avail, _, _ = is_room_available(cr['name'], current_date, current_slot)
-                if avail:
-                    available_list.append(f"{cr['name']} ({cr.get('total_seats', 0)}座)")
-            if available_list:
-                for item in available_list:
-                    st.write(f"  • {item}")
-            else:
-                st.write("  无")
+    # 删除此处的 st.markdown("---") 以压缩空间
 
-    st.markdown("---")
+    # 3. 使用趋势 (调换位置：移至最近记录上方)
+    if len(st.session_state.records) >= 2:
+        st.subheader("📈 使用趋势")
+        usage_by_date = {}
+        for r in st.session_state.records:
+            d = r.get('date', '')
+            if d:
+                usage_by_date[d] = usage_by_date.get(d, 0) + 1
 
-    # 最近记录
+        if usage_by_date:
+            dates = sorted(usage_by_date.keys())[-14:]
+            counts = [usage_by_date[d] for d in dates]
+
+            short_dates = [d[5:] for d in dates]
+            chart_data = pd.DataFrame({'日期': short_dates, '使用次数': counts})
+
+            fig_trend = px.line(
+                chart_data, x='日期', y='使用次数', markers=True, color_discrete_sequence=['#4A90D9']
+            )
+            fig_trend.update_layout(
+                xaxis=dict(tickangle=0, type='category', title=''),
+                yaxis=dict(title='', rangemode='tozero'),
+                margin=dict(l=0, r=20, t=20, b=0),
+                height=280, plot_bgcolor='white'  # 进一步压缩图表高度
+            )
+            fig_trend.update_yaxes(showgrid=True, gridwidth=1, gridcolor='#f0f0f0')
+            st.plotly_chart(fig_trend, use_container_width=True)
+
+    # 4. 最近记录 (调换位置：移至最下方)
     if st.session_state.records:
-        recent = sorted(st.session_state.records, key=lambda x: x.get('created_at', ''), reverse=True)[:10]
+        recent = sorted(st.session_state.records, key=lambda x: x.get('created_at', ''), reverse=True)[:5] # 将显示条数压缩为5条
         st.subheader("📝 最近使用记录")
         for r in recent:
             slots = ', '.join(r.get('time_slots', [])) if r.get('time_slots') else r.get('time_slot', '-')
             st.write(
-                f"**{r.get('date', '')}** | {r.get('classroom', '')} | {r.get('user_name', '')} | {r.get('usage_type', '')}")
+                f"**{r.get('date', '')}** | {r.get('classroom', '')} | {r.get('user_name', '')} | {r.get('usage_type', '')}"
+            )
             st.caption(f"时段: {slots}")
 
     st.markdown("---")
